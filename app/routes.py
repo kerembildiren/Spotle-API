@@ -1,43 +1,52 @@
-from fastapi import APIRouter, Depends
-from fastapi_cache import FastAPICache
-from fastapi_cache.decorator import cache
-from fastapi_cache.backends.inmemory import InMemoryBackend
+import json
+import os
+from fastapi import APIRouter, HTTPException
 from app.spotify import search_artist
 
-# Create a router for API endpoints
 router = APIRouter()
 
-@router.get("/search")
-@cache(expire=600)  # Cache search results for 10 minutes
-def get_artist(artist_name: str):
-    """
-    API endpoint to search for a Turkish singer.
-    Example: /search?artist_name=Tarkan
-    """
-    artist = search_artist(artist_name)
-    if artist:
-        return artist
-    return {"error": "Artist not found"}
+# Load the Turkish singers JSON file
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+JSON_FILE_PATH = os.path.join(BASE_DIR, "../data/turkish_singers.json")
 
+try:
+    with open(JSON_FILE_PATH, "r", encoding="utf-8") as f:
+        turkish_singers = json.load(f)
+except FileNotFoundError:
+    raise HTTPException(status_code=500, detail="Turkish singers JSON file not found!")
 
-# List of popular Turkish singers
-turkish_singers = [
-    "Tarkan", "Sezen Aksu", "Ajda Pekkan", "Hadise",
-    "Kenan Doğulu", "Murat Boz", "Aleyna Tilki",
-    "Edis", "Gülşen", "Bengü", "Mustafa Sandal"
-]
 
 @router.get("/turkish_singers")
-@cache(expire=3600)  # Cache results for 1 hour
-def get_turkish_singers():
-    """
-    API endpoint to get a list of top Turkish singers.
-    Example: /turkish_singers
-    """
-    singers_data = []
-    for singer in turkish_singers:
-        artist = search_artist(singer)  # Fetch data from Spotify API
-        if artist:
-            singers_data.append(artist)
+async def get_turkish_singers():
+    """Fetch Turkish singers' data from Spotify and rank them based on popularity."""
 
-    return singers_data
+    singers_data = []
+
+    for singer in turkish_singers:
+        name = singer["name"]
+
+        # Fetch artist details from Spotify API
+        artist_data = search_artist(name)
+
+        if artist_data:
+            # Determine popularity ranking based on Monthly Listeners or Followers
+            monthly_listeners = artist_data.get("monthly_listeners", None)
+            followers = artist_data.get("followers", None)
+
+            popularity_score = monthly_listeners if monthly_listeners else followers
+
+            singers_data.append({
+                "name": artist_data["name"],
+                "image": artist_data.get("image", "N/A"),
+                "popularity": popularity_score,
+                "debut_year": singer["debut_year"],
+                "group_size": singer["group_size"],
+                "gender": artist_data.get("gender", "N/A"),
+                "genre": ", ".join(artist_data.get("genres", [])) if artist_data.get("genres") else "N/A",
+                "nationality": "Turkish"  # We assume all are Turkish
+            })
+
+    # Rank singers by popularity (highest first)
+    ranked_singers = sorted(singers_data, key=lambda x: x["popularity"], reverse=True)
+
+    return {"singers": ranked_singers}
