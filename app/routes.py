@@ -50,3 +50,23 @@ async def get_turkish_singers():
     ranked_singers = sorted(singers_data, key=lambda x: x["popularity"], reverse=True)
 
     return {"singers": ranked_singers}
+
+
+@router.get("/search")
+async def search_singer(artist_name: str):
+    """Search for an artist in Spotify and return their data."""
+    artist_data = search_artist(artist_name)
+
+    if not artist_data:
+        raise HTTPException(status_code=404, detail="Singer not found")
+
+    return {
+        "name": artist_data["name"],
+        "image": artist_data.get("image", "N/A"),
+        "popularity": artist_data.get("monthly_listeners", artist_data.get("followers", "N/A")),
+        "debut_year": "N/A",  # To be filled later
+        "group_size": "N/A",  # To be filled later
+        "gender": artist_data.get("gender", "N/A"),
+        "genre": ", ".join(artist_data.get("genres", [])) if artist_data.get("genres") else "N/A",
+        "nationality": "Turkish"  # Assume all are Turkish
+    }
