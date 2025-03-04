@@ -1,3 +1,5 @@
+import os
+import uvicorn
 from fastapi import FastAPI
 from fastapi_cache import FastAPICache
 from fastapi_cache.backends.inmemory import InMemoryBackend
@@ -18,7 +20,8 @@ def home():
 def startup():
     FastAPICache.init(InMemoryBackend())
 
-# Run with: uvicorn app.main:app --reload
+# Get the PORT from Render's environment (default to 8000 if not set)
 if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=8000, reload=True)
+    port = int(os.environ.get("PORT", 8000))  # Use Render's PORT variable
+    uvicorn.run(app, host="0.0.0.0", port=port)
+
