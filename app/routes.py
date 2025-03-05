@@ -53,13 +53,27 @@ GENRE_MAPPING = {
     "arabesk": "Arabesque",
     "anatolian rock": "Rock",
 }
+
+
 def format_followers_count(followers):
     """Convert raw followers count into K/M format (e.g., 587K, 1.2M, 5M)."""
+
+    if not isinstance(followers, (int, float)):  # Ensure it's a number
+        print(f"⚠️ Followers data is not a valid number: {followers}")
+        return followers  # Return as-is if it's not a number
+
+    print(f"📌 Formatting followers count: {followers}")  # ✅ Debugging print
+
     if followers >= 1_000_000:
-        return f"{followers / 1_000_000:.1f}M"  # Convert to M (Millions)
+        formatted = f"{followers / 1_000_000:.1f}M"  # Convert to Millions
     elif followers >= 1_000:
-        return f"{followers // 1_000}K"  # Convert to K (Thousands)
-    return str(followers)  # Return as-is if less than 1K (shouldn't happen since we filter at 500K)
+        formatted = f"{followers // 1_000}K"  # Convert to Thousands
+    else:
+        formatted = str(followers)  # If below 1K, keep it as-is
+
+    print(f"✅ Formatted followers: {formatted}")  # ✅ Debugging print
+    return formatted
+
 
 def map_genre(genres):
     """Map similar Spotify genres to a single standardized category."""
@@ -92,7 +106,7 @@ async def get_turkish_singers():
                     "name": artist_data["name"],
                     "image": artist_data.get("image", "N/A"),
                     "popularity": popularity_score,
-                    "followers": format_followers_count(followers),  # ✅ Format followers for better readability
+                    "followers": format_followers_count(int(followers) if followers else 0),  # ✅ Ensure it's an integer
                     "debut_year": singer.get("debut_year", "N/A"),
                     "group_size": singer.get("group_size", "N/A"),
                     "gender": artist_data.get("gender", "N/A"),
@@ -127,7 +141,8 @@ async def search_singer(artist_name: str):
         "name": artist_data["name"],
         "image": artist_data.get("image", "N/A"),
         "popularity": artist_data.get("monthly_listeners", artist_data.get("followers", "N/A")),
-        "followers": format_followers_count(artist_data.get("followers", 0)),  # ✅ Format followers count
+        "followers": format_followers_count(int(artist_data.get("followers", 0))),
+        # ✅ Apply formatting & ensure it's an integer
         "debut_year": "N/A",
         "group_size": "N/A",
         "gender": artist_data.get("gender", "N/A"),
