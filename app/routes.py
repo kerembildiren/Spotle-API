@@ -83,12 +83,12 @@ def map_genre(genres):
                 return GENRE_MAPPING[key]
     return "Other"  # Default if no match
 
+
 @router.get("/turkish_singers")
 async def get_turkish_singers():
     """Fetch Turkish singers' data from Spotify and rank them based on popularity."""
 
     singers_data = []
-    log_messages = []  # ✅ Store logs for API response
 
     for singer in turkish_singers:
         name = singer["name"]
@@ -98,11 +98,12 @@ async def get_turkish_singers():
 
         if artist_data:
             followers = artist_data.get("followers", 0)
-            log_messages.append(f"🔹 Raw followers count for {name}: {followers}")  # ✅ Log raw followers count
 
             if followers >= 500000:  # ✅ Only add if followers are 500K+
-                formatted_followers = format_followers_count(followers)
-                log_messages.append(f"✅ Formatted followers for {name}: {formatted_followers}")  # ✅ Log formatted value
+                formatted_followers = format_followers_count(followers)  # ✅ Apply formatting
+
+                # ✅ Force debug print to check if function runs
+                print(f"🔥 DEBUG: {name} - Raw: {followers}, Formatted: {formatted_followers}")
 
                 monthly_listeners = artist_data.get("monthly_listeners", None)
                 popularity_score = monthly_listeners if monthly_listeners else followers
@@ -119,33 +120,35 @@ async def get_turkish_singers():
                     "nationality": "Turkish"
                 })
 
-    # Return singers data + debugging logs
-    return {"singers": singers_data, "logs": log_messages}  # ✅ Include logs in API response
+    return {"singers": singers_data}  # ✅ Remove unnecessary logging
+
 
 @router.get("/search")
 async def search_singer(artist_name: str):
     """Search for an artist in Spotify and return their data, but only if they exist in the Turkish singers dataset."""
 
-    # Convert the input name to lowercase for matching
     artist_name_lower = artist_name.lower()
-
-    # Check if the artist exists in turkish_singers.json
     valid_singers = {singer["name"].lower() for singer in turkish_singers}
+
     if artist_name_lower not in valid_singers:
         raise HTTPException(status_code=404, detail="Singer not found in the Turkish singers list")
 
-    # Fetch artist details from Spotify API
     artist_data = search_artist(artist_name)
 
     if not artist_data:
         raise HTTPException(status_code=404, detail="Singer not found in Spotify")
 
+    raw_followers = artist_data.get("followers", 0)
+    formatted_followers = format_followers_count(int(raw_followers))  # ✅ Force formatting
+
+    # ✅ Force debug print to check if function runs
+    print(f"🔥 DEBUG: {artist_data['name']} - Raw: {raw_followers}, Formatted: {formatted_followers}")
+
     return {
         "name": artist_data["name"],
         "image": artist_data.get("image", "N/A"),
-        "popularity": artist_data.get("monthly_listeners", artist_data.get("followers", "N/A")),
-        "followers": format_followers_count(int(artist_data.get("followers", 0))),
-        # ✅ Apply formatting & ensure it's an integer
+        "popularity": artist_data.get("monthly_listeners", raw_followers),
+        "followers": formatted_followers,  # ✅ Use formatted followers
         "debut_year": "N/A",
         "group_size": "N/A",
         "gender": artist_data.get("gender", "N/A"),
