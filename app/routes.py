@@ -16,6 +16,20 @@ except FileNotFoundError:
     raise HTTPException(status_code=500, detail="Turkish singers JSON file not found!")
 
 
+@router.get("/genres")
+async def get_all_genres():
+    """Fetch all unique genres from Turkish singers and identify similar ones."""
+    genre_set = set()
+
+    for singer in turkish_singers:
+        artist_data = search_artist(singer["name"])
+        if artist_data and "genres" in artist_data:
+            for genre in artist_data["genres"]:
+                genre_set.add(genre)
+
+    return {"unique_genres": sorted(genre_set)}
+
+
 @router.get("/turkish_singers")
 async def get_turkish_singers():
     """Fetch Turkish singers' data from Spotify and rank them based on popularity."""
