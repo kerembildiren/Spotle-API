@@ -30,26 +30,25 @@ async def get_all_genres():
     return {"unique_genres": sorted(genre_set)}
 
 GENRE_MAPPING = {
-
     "turkish pop": "Pop",
     "t-pop": "Pop",
     "turkish hip hop": "Rap",
-    "slap house":"Electronic",
-    "rap":"Rap",
-    "oyun havasi":"Folk",
-    "khaleeji":"Arabic",
-    "karadeniz folk":"Folk",
-    "hardstyle":"Metal",
-    "hardcore":"Metal",
-    "g-house":"Electronic",
-    "frenchcore":"Metal",
-    "drill":"Rap",
-    "children's music":"",
-    "arabic rap":"Arabic",
-    "arabesk":"Arabesque",
-    "anatolian rock":"Rock",
-
+    "slap house": "Electronic",
+    "rap": "Rap",
+    "oyun havasi": "Folk",
+    "khaleeji": "Arabic",
+    "karadeniz folk": "Folk",
+    "hardstyle": "Metal",
+    "hardcore": "Metal",
+    "g-house": "Electronic",
+    "frenchcore": "Metal",
+    "drill": "Rap",
+    "children's music": "",
+    "arabic rap": "Arabic",
+    "arabesk": "Arabesque",
+    "anatolian rock": "Rock",
 }
+
 def map_genre(genres):
     """Map similar Spotify genres to a single standardized category."""
     for genre in genres:
@@ -71,22 +70,23 @@ async def get_turkish_singers():
         artist_data = search_artist(name)
 
         if artist_data:
-            # Determine popularity ranking based on Monthly Listeners or Followers
-            monthly_listeners = artist_data.get("monthly_listeners", None)
-            followers = artist_data.get("followers", None)
+            # ✅ Get followers count & filter by 500K+
+            followers = artist_data.get("followers", 0)  # Ensure default is 0 if missing
+            if followers >= 500000:  # Only add if followers are 500K+
+                monthly_listeners = artist_data.get("monthly_listeners", None)
+                popularity_score = monthly_listeners if monthly_listeners else followers
 
-            popularity_score = monthly_listeners if monthly_listeners else followers
-
-            singers_data.append({
-                "name": artist_data["name"],
-                "image": artist_data.get("image", "N/A"),
-                "popularity": popularity_score,
-                "debut_year": singer.get("debut_year", "N/A"),  # Prevents missing keys
-                "group_size": singer.get("group_size", "N/A"),  # Prevents missing keys
-                "gender": artist_data.get("gender", "N/A"),
-                "genre": map_genre(artist_data.get("genres", [])),  # ✅ Corrected this line
-                "nationality": "Turkish"  # We assume all are Turkish
-            })
+                singers_data.append({
+                    "name": artist_data["name"],
+                    "image": artist_data.get("image", "N/A"),
+                    "popularity": popularity_score,
+                    "followers": followers,  # Show followers in API
+                    "debut_year": singer.get("debut_year", "N/A"),  # Prevents missing keys
+                    "group_size": singer.get("group_size", "N/A"),  # Prevents missing keys
+                    "gender": artist_data.get("gender", "N/A"),
+                    "genre": map_genre(artist_data.get("genres", [])),  # ✅ Corrected this line
+                    "nationality": "Turkish"  # We assume all are Turkish
+                })
 
     # Rank singers by popularity (highest first)
     ranked_singers = sorted(singers_data, key=lambda x: x["popularity"], reverse=True)
@@ -106,6 +106,7 @@ async def search_singer(artist_name: str):
         "name": artist_data["name"],
         "image": artist_data.get("image", "N/A"),
         "popularity": artist_data.get("monthly_listeners", artist_data.get("followers", "N/A")),
+        "followers": artist_data.get("followers", "N/A"),  # Add followers to search API
         "debut_year": "N/A",  # To be filled later
         "group_size": "N/A",  # To be filled later
         "gender": artist_data.get("gender", "N/A"),
