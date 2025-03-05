@@ -99,13 +99,22 @@ async def get_turkish_singers():
 
 
 @router.get("/search")
-@cache(expire=3600)  # ✅ Cache results for 1 hour
 async def search_singer(artist_name: str):
-    """Search for an artist in Spotify and return their data."""
+    """Search for an artist in Spotify and return their data, but only if they exist in the Turkish singers dataset."""
+
+    # Convert the input name to lowercase for matching
+    artist_name_lower = artist_name.lower()
+
+    # Check if the artist exists in turkish_singers.json
+    valid_singers = {singer["name"].lower() for singer in turkish_singers}
+    if artist_name_lower not in valid_singers:
+        raise HTTPException(status_code=404, detail="Singer not found in the Turkish singers list")
+
+    # Fetch artist details from Spotify API
     artist_data = search_artist(artist_name)
 
     if not artist_data:
-        raise HTTPException(status_code=404, detail="Singer not found")
+        raise HTTPException(status_code=404, detail="Singer not found in Spotify")
 
     return {
         "name": artist_data["name"],
