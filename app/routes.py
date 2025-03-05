@@ -124,6 +124,6 @@ async def search_singer(artist_name: str):
         "debut_year": "N/A",
         "group_size": "N/A",
         "gender": artist_data.get("gender", "N/A"),
-        "genre": ", ".join(artist_data.get("genres", [])) if artist_data.get("genres") else "N/A",
+        "genre": map_genre(artist_data.get("genres", [])),  # ✅ Use our mapped genre instead of all genres
         "nationality": "Turkish"
     }
