@@ -29,6 +29,34 @@ async def get_all_genres():
 
     return {"unique_genres": sorted(genre_set)}
 
+GENRE_MAPPING = {
+
+    "turkish pop": "Pop",
+    "t-pop": "Pop",
+    "turkish hip hop": "Rap",
+    "slap house":"Electronic",
+    "rap":"Rap",
+    "oyun havasi":"Folk",
+    "khaleeji":"Arabic",
+    "karadeniz folk":"Folk",
+    "hardstyle":"Metal",
+    "hardcore":"Metal",
+    "g-house":"Electronic",
+    "frenchcore":"Metal",
+    "drill":"Rap",
+    "children's music":"",
+    "arabic rap":"Arabic",
+    "arabesk":"Arabesque",
+    "anatolian rock":"Rock",
+
+}
+def map_genre(genres):
+    """Map similar Spotify genres to a single standardized category."""
+    for genre in genres:
+        for key in GENRE_MAPPING:
+            if key in genre.lower():
+                return GENRE_MAPPING[key]
+    return "Other"  # Default if no match
 
 @router.get("/turkish_singers")
 async def get_turkish_singers():
@@ -53,10 +81,10 @@ async def get_turkish_singers():
                 "name": artist_data["name"],
                 "image": artist_data.get("image", "N/A"),
                 "popularity": popularity_score,
-                "debut_year": singer["debut_year"],
-                "group_size": singer["group_size"],
+                "debut_year": singer.get("debut_year", "N/A"),  # Prevents missing keys
+                "group_size": singer.get("group_size", "N/A"),  # Prevents missing keys
                 "gender": artist_data.get("gender", "N/A"),
-                "genre": ", ".join(artist_data.get("genres", [])) if artist_data.get("genres") else "N/A",
+                "genre": map_genre(artist_data.get("genres", [])),  # ✅ Corrected this line
                 "nationality": "Turkish"  # We assume all are Turkish
             })
 
