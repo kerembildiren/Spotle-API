@@ -84,11 +84,11 @@ def map_genre(genres):
     return "Other"  # Default if no match
 
 @router.get("/turkish_singers")
-@cache(expire=86400)  # ✅ Cache data for 24 hours (86400 seconds)
 async def get_turkish_singers():
     """Fetch Turkish singers' data from Spotify and rank them based on popularity."""
 
     singers_data = []
+    log_messages = []  # ✅ Store logs for API response
 
     for singer in turkish_singers:
         name = singer["name"]
@@ -98,7 +98,12 @@ async def get_turkish_singers():
 
         if artist_data:
             followers = artist_data.get("followers", 0)
+            log_messages.append(f"🔹 Raw followers count for {name}: {followers}")  # ✅ Log raw followers count
+
             if followers >= 500000:  # ✅ Only add if followers are 500K+
+                formatted_followers = format_followers_count(followers)
+                log_messages.append(f"✅ Formatted followers for {name}: {formatted_followers}")  # ✅ Log formatted value
+
                 monthly_listeners = artist_data.get("monthly_listeners", None)
                 popularity_score = monthly_listeners if monthly_listeners else followers
 
@@ -106,7 +111,7 @@ async def get_turkish_singers():
                     "name": artist_data["name"],
                     "image": artist_data.get("image", "N/A"),
                     "popularity": popularity_score,
-                    "followers": format_followers_count(int(followers) if followers else 0),  # ✅ Ensure it's an integer
+                    "followers": formatted_followers,  # ✅ Use formatted followers
                     "debut_year": singer.get("debut_year", "N/A"),
                     "group_size": singer.get("group_size", "N/A"),
                     "gender": artist_data.get("gender", "N/A"),
@@ -114,10 +119,8 @@ async def get_turkish_singers():
                     "nationality": "Turkish"
                 })
 
-    ranked_singers = sorted(singers_data, key=lambda x: x["popularity"], reverse=True)
-    return {"singers": ranked_singers}
-
-
+    # Return singers data + debugging logs
+    return {"singers": singers_data, "logs": log_messages}  # ✅ Include logs in API response
 
 @router.get("/search")
 async def search_singer(artist_name: str):
