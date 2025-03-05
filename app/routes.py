@@ -2,6 +2,11 @@ import json
 import os
 from fastapi import APIRouter, HTTPException
 from app.spotify import search_artist
+from fastapi_cache import FastAPICache
+from fastapi_cache.backends.inmemory import InMemoryBackend
+from fastapi_cache.decorator import cache
+
+FastAPICache.init(InMemoryBackend())
 
 router = APIRouter()
 
@@ -58,6 +63,7 @@ def map_genre(genres):
     return "Other"  # Default if no match
 
 @router.get("/turkish_singers")
+@cache(expire=86400)  # ✅ Cache data for 24 hours (86400 seconds)
 async def get_turkish_singers():
     """Fetch Turkish singers' data from Spotify and rank them based on popularity."""
 
@@ -70,9 +76,8 @@ async def get_turkish_singers():
         artist_data = search_artist(name)
 
         if artist_data:
-            # ✅ Get followers count & filter by 500K+
-            followers = artist_data.get("followers", 0)  # Ensure default is 0 if missing
-            if followers >= 500000:  # Only add if followers are 500K+
+            followers = artist_data.get("followers", 0)
+            if followers >= 500000:  # ✅ Only add if followers are 500K+
                 monthly_listeners = artist_data.get("monthly_listeners", None)
                 popularity_score = monthly_listeners if monthly_listeners else followers
 
@@ -80,21 +85,21 @@ async def get_turkish_singers():
                     "name": artist_data["name"],
                     "image": artist_data.get("image", "N/A"),
                     "popularity": popularity_score,
-                    "followers": followers,  # Show followers in API
-                    "debut_year": singer.get("debut_year", "N/A"),  # Prevents missing keys
-                    "group_size": singer.get("group_size", "N/A"),  # Prevents missing keys
+                    "followers": followers,
+                    "debut_year": singer.get("debut_year", "N/A"),
+                    "group_size": singer.get("group_size", "N/A"),
                     "gender": artist_data.get("gender", "N/A"),
-                    "genre": map_genre(artist_data.get("genres", [])),  # ✅ Corrected this line
-                    "nationality": "Turkish"  # We assume all are Turkish
+                    "genre": map_genre(artist_data.get("genres", [])),
+                    "nationality": "Turkish"
                 })
 
-    # Rank singers by popularity (highest first)
     ranked_singers = sorted(singers_data, key=lambda x: x["popularity"], reverse=True)
-
     return {"singers": ranked_singers}
 
 
+
 @router.get("/search")
+@cache(expire=3600)  # ✅ Cache results for 1 hour
 async def search_singer(artist_name: str):
     """Search for an artist in Spotify and return their data."""
     artist_data = search_artist(artist_name)
@@ -106,10 +111,10 @@ async def search_singer(artist_name: str):
         "name": artist_data["name"],
         "image": artist_data.get("image", "N/A"),
         "popularity": artist_data.get("monthly_listeners", artist_data.get("followers", "N/A")),
-        "followers": artist_data.get("followers", "N/A"),  # Add followers to search API
-        "debut_year": "N/A",  # To be filled later
-        "group_size": "N/A",  # To be filled later
+        "followers": artist_data.get("followers", "N/A"),
+        "debut_year": "N/A",
+        "group_size": "N/A",
         "gender": artist_data.get("gender", "N/A"),
         "genre": ", ".join(artist_data.get("genres", [])) if artist_data.get("genres") else "N/A",
-        "nationality": "Turkish"  # Assume all are Turkish
+        "nationality": "Turkish"
     }
