@@ -53,6 +53,13 @@ GENRE_MAPPING = {
     "arabesk": "Arabesque",
     "anatolian rock": "Rock",
 }
+def format_followers_count(followers):
+    """Convert raw followers count into K/M format (e.g., 587K, 1.2M, 5M)."""
+    if followers >= 1_000_000:
+        return f"{followers / 1_000_000:.1f}M"  # Convert to M (Millions)
+    elif followers >= 1_000:
+        return f"{followers // 1_000}K"  # Convert to K (Thousands)
+    return str(followers)  # Return as-is if less than 1K (shouldn't happen since we filter at 500K)
 
 def map_genre(genres):
     """Map similar Spotify genres to a single standardized category."""
@@ -85,7 +92,7 @@ async def get_turkish_singers():
                     "name": artist_data["name"],
                     "image": artist_data.get("image", "N/A"),
                     "popularity": popularity_score,
-                    "followers": followers,
+                    "followers": format_followers_count(followers),  # ✅ Format followers for better readability
                     "debut_year": singer.get("debut_year", "N/A"),
                     "group_size": singer.get("group_size", "N/A"),
                     "gender": artist_data.get("gender", "N/A"),
@@ -120,7 +127,7 @@ async def search_singer(artist_name: str):
         "name": artist_data["name"],
         "image": artist_data.get("image", "N/A"),
         "popularity": artist_data.get("monthly_listeners", artist_data.get("followers", "N/A")),
-        "followers": artist_data.get("followers", "N/A"),
+        "followers": format_followers_count(artist_data.get("followers", 0)),  # ✅ Format followers count
         "debut_year": "N/A",
         "group_size": "N/A",
         "gender": artist_data.get("gender", "N/A"),
