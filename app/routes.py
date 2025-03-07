@@ -143,7 +143,7 @@ async def search_singer(artist_name: str):
     """Search for an artist in Spotify and return their data, but only if they exist in the Turkish singers dataset."""
     config.SEARCH_REQ = True
     # 1. artist secildi mi kontrolu
-    if len(config.SELECTED_SINGER_DATA) < 1 or not DateOperations.is_new_day():
+    if len(config.SELECTED_SINGER_DATA) < 1 or DateOperations.is_new_day():
         # 1. secilmemis ise rastgele sec
         print("SELECTED ARTIST NOT FOUND, SELECTING RANDOM SINGER")
         select_random_singer()
