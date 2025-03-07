@@ -1,1 +1,3 @@
-data/*.*
+data/*.json
+
+data/turkish_singers.json
