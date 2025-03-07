@@ -1,4 +1,6 @@
 import os
+from datetime import datetime
+
 from dotenv import load_dotenv
 
 # Get the absolute path to the root folder
@@ -21,3 +23,9 @@ print("SPOTIFY_REDIRECT_URI:", SPOTIFY_REDIRECT_URI)
 # Ensure credentials exist
 if not SPOTIFY_CLIENT_ID or not SPOTIFY_CLIENT_SECRET:
     raise ValueError("Missing Spotify API credentials! Check your .env file.")
+
+LAST_DATE = datetime.now().date()
+SELECTED_SINGER_DATA = {}
+
+
+

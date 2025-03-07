@@ -1,3272 +1,4234 @@
-[
-    {
-        "name": "BLOK3",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+{
+    "BLOK3": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Al Shami",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Al Shami": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Sezen Aksu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Sezen Aksu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ati242",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ati242": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Mete Kayagil",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Mete Kayagil": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Filiz Kemal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Filiz Kemal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Lvbel C5",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Lvbel C5": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Gulsen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Gulsen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Tarkan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Tarkan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Duman",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Duman": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ahmet Kaya",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ahmet Kaya": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Mabel Matiz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Mabel Matiz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "cakal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "cakal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Sertab Erener",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Sertab Erener": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Reynmen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Reynmen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
+    "Semicenk": {
+        "id": "1CcZoULzFHa8Uhwo6OlQcp",
         "name": "Semicenk",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 73,
+        "followers": 4926637,
+        "genres": "Pop",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb4f7f5c04098374eefedfc864",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741345944.3968976
     },
-    {
-        "name": "Ahmet Can Dundar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ahmet Can Dundar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Muslum Gurses",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Muslum Gurses": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Dedubluman",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Dedubluman": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Melike sahin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Melike sahin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ebru Gundes",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ebru Gundes": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ferdi Tayfur",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ferdi Tayfur": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Hande Yener",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Hande Yener": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Simge",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Simge": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Bengu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Bengu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ezhel",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ezhel": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ragib Narin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ragib Narin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Sila",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Sila": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Hadise",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Hadise": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "ibrahim Tatlises",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "ibrahim Tatlises": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "irem Derici",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "irem Derici": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Melis Fis",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Melis Fis": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Derya Bedavaci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Derya Bedavaci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Aleyna Tilki",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Aleyna Tilki": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "UZi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "UZi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Yalin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Yalin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ben Fero",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ben Fero": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ceza",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ceza": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Soner Sarikabadayi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Soner Sarikabadayi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Mustafa Ceceli",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Mustafa Ceceli": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Serdar Ortac",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Serdar Ortac": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Mustafa Sandal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Mustafa Sandal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Zeynep Bastik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Zeynep Bastik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Murat Boz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Murat Boz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Yildiz Tilbe",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Yildiz Tilbe": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Canbay & Wolker",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Canbay & Wolker": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Cem Adrian",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Cem Adrian": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Burak Bulut",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Burak Bulut": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Gazapizm",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Gazapizm": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Buray",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Buray": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Demet Akalin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Demet Akalin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "cilgin Dondurmaci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "cilgin Dondurmaci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ceren Yaldiz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ceren Yaldiz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Emir Can igrek",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Emir Can igrek": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Heijan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Heijan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Yener cevik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Yener cevik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Sevimli Dostlar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Sevimli Dostlar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Mert Demir",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Mert Demir": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Gökhan Turkmen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Gökhan Turkmen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Tugce Kandemir",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Tugce Kandemir": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "No.1",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "No.1": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Emre Fel",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Emre Fel": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Oguzhan Koc",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Oguzhan Koc": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Dolu Kadehi Ters Tut",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Dolu Kadehi Ters Tut": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ebru Yasar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ebru Yaşar": {
+        "id": "0Qbd0AGWuzggX61s306wZN",
+        "name": "Ebru Yaşar",
+        "popularity": 61,
+        "followers": 994828,
+        "genres": [
+            "turkish pop",
+            "arabesk",
+            "oyun havasi"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5ebaa5bcf0798bf2a53ccc09cf7",
+        "first_album": "Sanat-ı Ebru",
+        "debut_year": "1990",
+        "spotify_url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN",
+        "updated": true,
+        "updated_date": 1741345126.5531745
     },
-    {
-        "name": "ElMusto",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "ElMusto": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Funda Arar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Funda Arar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Derya Ulug",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Derya Ulug": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Emre Aydin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Emre Aydin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Sagopa Kajmer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Sagopa Kajmer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Bilal Sonses",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Bilal Sonses": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
+    "Cem Yilmaz": {
+        "id": "3jviwAPHk5muprkV7igylB",
         "name": "Cem Yilmaz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+        "popularity": 9,
+        "followers": 340,
+        "genres": [],
+        "image": null,
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/3jviwAPHk5muprkV7igylB",
+        "updated": true,
+        "updated_date": 1741344801.1430624
     },
-    {
-        "name": "Bege",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Bege": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "senol Evgi HD",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "senol Evgi HD": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "sebnem Ferah",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "sebnem Ferah": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Gulben Ergen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Gulben Ergen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Sefo",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Sefo": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Aydas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Aydas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Edis",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Edis": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Murat Dalkilic",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Murat Dalkilic": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Tan Tasci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Tan Tasci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Sinan Akcil",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Sinan Akcil": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Teoman",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Teoman": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Merve Özbey",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Merve Özbey": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "ismail YK",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "ismail YK": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Model",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Model": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Enes Cinpolat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Enes Cinpolat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "maNga",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "maNga": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "ismaeil Tamr",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "ismaeil Tamr": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Göksel",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Göksel": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Melek Mosso",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Melek Mosso": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Kubilay Karca",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Kubilay Karca": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Amo988",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Amo988": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Kurtulus Kus",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Kurtulus Kus": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ozan Dogulu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ozan Dogulu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Batuflex",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Batuflex": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Rafet El Roman",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Rafet El Roman": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Kenan Dogulu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Kenan Dogulu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Sibel Can",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Sibel Can": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Cengiz Kurtoglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Cengiz Kurtoglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Hirai zerdus",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Hirai zerdus": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Cemre Solmaz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Cemre Solmaz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Baris Manco",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Baris Manco": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Neset Ertas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Neset Ertas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Norm Ender",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Norm Ender": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ece Seckin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ece Seckin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Emrah Karaduman",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Emrah Karaduman": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Selda Bagcan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Selda Bagcan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Mor ve Ötesi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Mor ve Ötesi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Pinhani",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Pinhani": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "ilyas Yalcintas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "ilyas Yalcintas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Sancak",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Sancak": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Rojda",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Rojda": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Muti",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Muti": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Canozan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Canozan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Goril Faruk",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Goril Faruk": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Mahmut Orhan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Mahmut Orhan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Zakkum",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Zakkum": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Tugba Yurt",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Tugba Yurt": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Motive",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Motive": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Haluk Levent",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Haluk Levent": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Nilufer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Nilufer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Wegh",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Wegh": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
+    "Gripin": {
+        "id": "3Z814BstLaKbLqKHXsht8O",
         "name": "Gripin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Koray Avci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mavi Gri",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yusuf Guney",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Nazan Öncel",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Dilan Polat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gullu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Eypio",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ömer Öz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Serhat Durmus",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kahraman Deniz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "saniser",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yasar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Velet",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Adamlar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ajda Pekkan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mela Bedel",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yuzyuzeyken Konusuruz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Organize",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Taladro",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ferhat Göcer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Nil Karaibrahimgil",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sakiler",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Amir Tataloo",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Manus Baba",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Musa EROgLU",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Madrigal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kayra",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Volkan Konak",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kirac",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Siyam",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ALiZADE",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Toygar isikli",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tekir",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "sehinsah",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mahsun Kirmizigul",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hakan Altun",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Azamat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Anil Piyanci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kukuli",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Stabil",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Jeff Redd",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Elif Buse Dogan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ceylan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Candan Ercetin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "M Lisa",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Atiye",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aydin Kurtoglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Onur Can Özcan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sezer Sarigöz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kalben",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Salman Tin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mr Jade",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ekin Uzunlar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Feride Hilal Akin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "BEDO",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hayko Cepkin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hande unsal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Bayhan Gurhan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "cagan sengul",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Azer Bulbul",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Patron",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yasli Amca",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Seksendört",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "umit Besen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Zara",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kolpa",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Semiramis Pekkan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sena Sener",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aydilge",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sevcan Orhan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Emre Altug",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Can Bonomo",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tugkan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mustafa Yildizdogan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ece Mumay",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Berkay",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Burcu Gunes",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Diyar Pala",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Resul DiNDAR",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sila sahin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ahiyan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Bilal HANCi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kamuran Akkor",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
+        "popularity": 60,
+        "followers": 1532694,
+        "genres": [
+            "turkish pop",
+            "anatolian rock"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb3df479605d05be4a69474c6a",
+        "first_album": "Hikayeler Anlatıldı 2. Baskı",
+        "debut_year": "2005-06-30",
+        "spotify_url": "https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O",
+        "updated": true,
+        "updated_date": 1741345355.5550694
+    },
+    "Koray Avci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mavi Gri": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yusuf Guney": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Nazan Öncel": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Dilan Polat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gullu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Eypio": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ömer Öz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Serhat Durmus": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kahraman Deniz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "saniser": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yasar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Velet": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Adamlar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ajda Pekkan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mela Bedel": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yuzyuzeyken Konusuruz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Organize": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Taladro": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ferhat Göcer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Nil Karaibrahimgil": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sakiler": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Amir Tataloo": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Manus Baba": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Musa EROgLU": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Madrigal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kayra": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Volkan Konak": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kirac": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Siyam": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ALiZADE": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Toygar isikli": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tekir": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "sehinsah": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mahsun Kirmizigul": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hakan Altun": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Azamat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Anil Piyanci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kukuli": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Stabil": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Jeff Redd": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Elif Buse Dogan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ceylan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Candan Ercetin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "M Lisa": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Atiye": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aydin Kurtoglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Onur Can Özcan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sezer Sarigöz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kalben": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Salman Tin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mr Jade": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ekin Uzunlar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Feride Hilal Akin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "BEDO": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hayko Cepkin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hande unsal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Bayhan Gurhan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "cagan sengul": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Azer Bulbul": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Patron": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yasli Amca": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Seksendört": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "umit Besen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Zara": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kolpa": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Semiramis Pekkan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sena Sener": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aydilge": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sevcan Orhan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Emre Altug": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Can Bonomo": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tugkan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mustafa Yildizdogan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ece Mumay": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Berkay": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Burcu Gunes": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Diyar Pala": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Resul DiNDAR": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ahiyan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Bilal HANCi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kamuran Akkor": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mehmet Erdem": {
+        "id": "0ylYRIvKTpv9uvTfKbYjM0",
         "name": "Mehmet Erdem",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "DJ Kantik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Erol Evgin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Davut Guloglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "KÖFN",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cem Karaca",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Contra",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Serkan Kaya",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ersay uner",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kaan Bosnak",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Berk Coskun",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ali Kinik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ezgizem",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mem Ararat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kibariye",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ikiye On Kala",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hidra",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "AKDO",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "intizar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Emre Aslan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gökhan Özen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sansar Salvo",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Dogus",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Son Feci Bisiklet",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Burak King",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ibrahim Erkal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Halit Bilgic",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "AYDEED",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Athena",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Guler Duman",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Alisan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Bergen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Elsen Pro",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Guliz Ayla",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ikilem",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Harun Kolcak",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Linet",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ozbi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "nurettin rencber",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Pera",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Furkan Soysal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Orhan Gencebay",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Edip Akbayram",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Poori",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Doga icin cal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Amo M",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Uygar Doganay",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Murat Gögebakan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Murat Kursun",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Deeperise",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gulden Karaböcek",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Erkin Koray",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Zulfu Livaneli",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Bahadir Tatliöz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ozan colakoglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Samet Kardesler",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Pamela",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ferhat Tunc",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fatma Turgut",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ilkay Sencan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kerimcan Durmaz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Deniz Seki",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Perdenin Ardindakiler",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "SABAHAT AKKiRAZ",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ceylan Ertem",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ender Balkir",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Baris Akarsu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Halil Sezai",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Rota",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Özlem Özdil",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aysegul Aldinc",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "irmak Arici",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Eda Sakiz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cem Belevi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kivircik Ali",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kejoo Beats",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tulay Maciran",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fundyy",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hulya Avsar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yuksek Sadakat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ece Ronay",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Arem Ozguc",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gece Yolculari",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Seyf",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Erdem Kinay",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Dogu Swag",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gunes",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Arman Aydin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ceren Sagu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Seda Tripkolic",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Orhan Ölmez",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ugur isilak",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cevher",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Selcuk Balci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mansur ark",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Heavy Rain Sounds",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "isin Karaca",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cash Flow",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aynur Dogan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "kazim koyuncu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Havva Ogut",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "sam",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "sevval Sam",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Askin Nur Yengi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Feridun Duzagac",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sinan Özen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fettah Can",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aycin Asan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sufle",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Seda Sayan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "imera",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Erdal Erzincan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aysel Yakupoglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aynur Aydin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Allame",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ufuk Beydemir",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aykut Closer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ayna",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Eylem Aktas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mazen Asaf",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mehmet Elmas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Oguzhan Ugur",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "sahin Kendirci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Alireza Kohany",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Haamim",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Abdurrahman Önul",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Merve Yalcin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Can Kazaz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Farazi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Okan & Volkan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Furkan inci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Enbe Orkestrasi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yakisikli Guvenlik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Koorosh",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Keskin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Erdal Erdogan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aynur Polat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Zerrin Özer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Soner Arica",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Baran Menguc",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Levent Yuksel",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fedon",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ömer faruk bostan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Bulent Serttas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Veysel Mutlu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "celik Erisci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Rober Hatemo",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Emre Kaya",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yigit Mahzuni",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Onur Akin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Grup Abdal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "iDO TATLiSES",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gökhan Kirdar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Jabbar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Deniz Toprak",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Melis Kar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ceg",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aspova",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Umut Timur",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Dogukan Manco",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Paptircem",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Arta",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Defkhan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gulden",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hande Mehan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Grup Seyran",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ceylan Koynat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Özdemir Erdogan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "MFÖ",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Meg",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cengiz Özkan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Öyku Gurman",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "cagatay Akman",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Narco",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Taha Özer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aylin Demir",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Bengu Beker",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sedef Sebuktekin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ata Demirer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Banu Parlak",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gökhan Tepe",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Meric izgi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Umur Anil Gokdag",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ferdi Özbegen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Maya Perest",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hepsi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Can Togrulca",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Burak Kut",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Redd",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yirmi7",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Halodayi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Onur Bayraktar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sevgim Yilmaz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Emel Muftuoglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Skapova",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mustafa Özarslan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Evdeki Saat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ahmet safak",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Maral",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ayla celik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fatih Bulut",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Serkan Nisanci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Batuhan Kordel",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Dogus Cabakcor",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ferhat Gunes",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Anil Emre Daldal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yedinci EV",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ceren Gundogdu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Khontkar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Xece",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Begum Polat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kendimden Hallice",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Muazzez Ersoy",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Onay sAHiN",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Emrah",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "manifest",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "CANFEZA",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Berdan Mardini",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mavzer Tabancas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "sivan Perwer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Dursun Ali Erzincanli",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "istanbul Trip",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cimilli ibo",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mustafa Tas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ahmet Hatipoglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Amer Mounib",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ömer Balik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cagri Ozer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yeni Turku",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tuna Kiremitci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ömer Bukulmezoglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Lil Zey",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cihan Eser",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Rumeli Orhan Kemal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "M Lisa",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Rope",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "BuLENT ERSOY",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kolera",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ozan Bayrasa",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Reckol",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ayaz Erdogan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Taylan Kaya",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Aytac Dogan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Afra",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sözer Sepetci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Pau",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gökhan Doganay",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Retrib",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Armagan Oruc",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tugce Tayfur",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Nova norda",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mavi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kerim Araz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Selim Gulgören",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Selami sahin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gökhan namli",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hakan Tasiyan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Nazli Öksuz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gamze seker",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sokrat St",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Grup Yorum",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Rei 6",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fazil Say",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Özgur can coban",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "özgun",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Zeynep Baksi Karatag",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Veli Erdem Karakulah",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gulay Sezer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ogun Sanlisoy",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fahriye Özay",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yonca Evcimik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tamer koc",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fadil Aydin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Oguz Yilmaz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Bora Duran",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Porcay (Porcay)",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cvrtoon",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tolunay Ören",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Zeyd",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "cansever",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Didomido",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gulcin Ergul",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Burak Balkan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tankurt Manas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cihan Murtezaoglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Bilal Göregen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Murat Kekilli",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Zeynep Dizdar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Eda Baba",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "BÖ",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Asil Gök",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fatih Karaytu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Engin Nursani",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Betul Demir",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kivircik Ali Özutemiz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "izel",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Murat Belet",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tugba Ekinci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Koliva",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "DJ Tarkan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Murat Akgun",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ferat ungur",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Gökce",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "hasan bayar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hakan Peker",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yasir Miy",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Emel Sayin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yusuf Tomakin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Neslihan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "kaikaén",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "overrated",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Xece herdem",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Berksan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Halil Yildirim",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Stres Beats",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hakki Bulut",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Zawanbeats",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ayla Dikmen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Carlita",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Berkay Altunyay",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ayse Hatun Onal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Asuman Dabak",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "13 Killoki",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Humeyra",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Guncel Gursel Artiktay",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ilkan Gunuc",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tepki",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kaya Giray",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Huseyin Kagit",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Nukhet Duru",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "idil Biret",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ferah Zeydan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ALi BARAN",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tefo",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Cem erdost ileri",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ahmet Kilic",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Berk Baysal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Joker",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ezginin Gunlugu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Oguz Aksac",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "siyar Berwari",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Sehabe",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "DJ Artz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
+        "popularity": 45,
+        "followers": 674739,
+        "genres": [
+            "turkish pop",
+            "arabesk"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb78beec5e4508246c65683346",
+        "first_album": "Dol (Orijinal Film Müzikleri)",
+        "debut_year": "2007-04-30",
+        "spotify_url": "https://open.spotify.com/artist/0ylYRIvKTpv9uvTfKbYjM0",
+        "updated": true,
+        "updated_date": 1741345247.1281195
+    },
+    "DJ Kantik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Erol Evgin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Davut Guloglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "KÖFN": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cem Karaca": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Contra": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Serkan Kaya": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ersay uner": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kaan Bosnak": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Berk Coskun": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ali Kinik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ezgizem": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mem Ararat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kibariye": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ikiye On Kala": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hidra": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "AKDO": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "intizar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Emre Aslan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gökhan Özen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sansar Salvo": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Dogus": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Son Feci Bisiklet": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Burak King": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ibrahim Erkal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Halit Bilgic": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "AYDEED": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Athena": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Guler Duman": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Alisan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Bergen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Elsen Pro": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Guliz Ayla": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ikilem": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Harun Kolcak": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Linet": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ozbi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "nurettin rencber": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Pera": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Furkan Soysal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Orhan Gencebay": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Edip Akbayram": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Poori": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Doga icin cal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Amo M": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Uygar Doganay": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Murat Gögebakan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Murat Kursun": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Deeperise": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gulden Karaböcek": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Erkin Koray": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Zulfu Livaneli": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Bahadir Tatliöz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ozan colakoglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Samet Kardesler": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Pamela": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ferhat Tunc": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fatma Turgut": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ilkay Sencan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kerimcan Durmaz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Deniz Seki": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Perdenin Ardindakiler": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "SABAHAT AKKiRAZ": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ceylan Ertem": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ender Balkir": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Baris Akarsu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Halil Sezai": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Rota": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Özlem Özdil": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aysegul Aldinc": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "irmak Arici": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Eda Sakiz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cem Belevi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kivircik Ali": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kejoo Beats": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tulay Maciran": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fundyy": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hulya Avsar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yuksek Sadakat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ece Ronay": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Arem Ozguc": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gece Yolculari": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Seyf": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Erdem Kinay": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Dogu Swag": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gunes": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Arman Aydin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ceren Sagu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Seda Tripkolic": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Orhan Ölmez": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ugur isilak": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cevher": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Selcuk Balci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mansur ark": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Heavy Rain Sounds": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "isin Karaca": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cash Flow": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aynur Dogan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "kazim koyuncu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Havva Ogut": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "sam": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "sevval Sam": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Askin Nur Yengi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Feridun Duzagac": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sinan Özen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fettah Can": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aycin Asan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sufle": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Seda Sayan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "imera": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Erdal Erzincan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aysel Yakupoglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aynur Aydin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Allame": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ufuk Beydemir": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aykut Closer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ayna": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Eylem Aktas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mazen Asaf": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mehmet Elmas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Oguzhan Ugur": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "sahin Kendirci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Alireza Kohany": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Haamim": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Abdurrahman Önul": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Merve Yalçın": {
+        "id": "3hz9oj5H2C1iTejt5IQpW2",
+        "name": "Merve Yalçın",
+        "popularity": 30,
+        "followers": 198123,
+        "genres": [
+            "manele",
+            "turkish pop"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb7082b072152d967027d70679",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/3hz9oj5H2C1iTejt5IQpW2",
+        "updated": true,
+        "updated_date": 1741345147.2049053
+    },
+    "Can Kazaz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Farazi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Okan & Volkan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Furkan inci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Enbe Orkestrasi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yakisikli Guvenlik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Koorosh": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Keskin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Erdal Erdogan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aynur Polat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Zerrin Özer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Soner Arica": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Baran Menguc": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Levent Yuksel": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fedon": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ömer faruk bostan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Bulent Serttas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Veysel Mutlu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "celik Erisci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Rober Hatemo": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Emre Kaya": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yigit Mahzuni": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Onur Akin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Grup Abdal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "iDO TATLiSES": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gökhan Kirdar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Jabbar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Deniz Toprak": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Melis Kar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ceg": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aspova": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Umut Timur": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Dogukan Manco": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Paptircem": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Arta": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Defkhan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gulden": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hande Mehan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Grup Seyran": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ceylan Koynat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Özdemir Erdogan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "MFÖ": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Meg": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cengiz Özkan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Öyku Gurman": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "cagatay Akman": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Narco": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Taha Özer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aylin Demir": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Bengu Beker": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sedef Sebuktekin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ata Demirer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Banu Parlak": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gökhan Tepe": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Meric izgi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Umur Anil Gokdag": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ferdi Özbegen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Maya Perest": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hepsi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Can Togrulca": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Burak Kut": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Redd": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yirmi7": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Halodayi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Onur Bayraktar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sevgim Yilmaz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Emel Muftuoglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Skapova": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mustafa Özarslan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Evdeki Saat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ahmet safak": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Maral": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ayla celik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fatih Bulut": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Serkan Nisanci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Batuhan Kordel": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Dogus Cabakcor": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ferhat Gunes": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Anil Emre Daldal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yedinci EV": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ceren Gundogdu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Khontkar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Xece": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Begum Polat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kendimden Hallice": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Muazzez Ersoy": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Onay Şahin": {
+        "id": "3T4j5fdpdhQhST5dzQjQV7",
+        "name": "Onay Şahin",
+        "popularity": 44,
+        "followers": 54829,
+        "genres": [
+            "karadeniz folk",
+            "oyun havasi"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb67dede1d8054eb57104e6545",
+        "first_album": "Onaylı Kaydeler",
+        "debut_year": "2008-06-04",
+        "spotify_url": "https://open.spotify.com/artist/3T4j5fdpdhQhST5dzQjQV7",
+        "updated": true,
+        "updated_date": 1741345165.2263336
+    },
+    "Emrah": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "manifest": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "CANFEZA": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Berdan Mardini": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mavzer Tabancas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "sivan Perwer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Dursun Ali Erzincanli": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "istanbul Trip": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cimilli ibo": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mustafa Tas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ahmet Hatipoglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Amer Mounib": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ömer Balik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cagri Ozer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yeni Turku": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tuna Kiremitci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ömer Bukulmezoglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Lil Zey": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cihan Eser": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Rumeli Orhan Kemal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Rope": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "BuLENT ERSOY": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kolera": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ozan Bayrasa": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Reckol": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ayaz Erdogan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Taylan Kaya": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Aytac Dogan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Afra": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sözer Sepetci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Pau": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gökhan Doganay": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Retrib": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Armagan Oruc": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tugce Tayfur": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Nova norda": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mavi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kerim Araz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Selim Gulgören": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Selami sahin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gökhan namli": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hakan Tasiyan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Nazli Öksuz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gamze seker": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sokrat St": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Grup Yorum": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Rei 6": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fazil Say": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Özgur can coban": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "özgun": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Zeynep Baksi Karatag": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Veli Erdem Karakulah": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gulay Sezer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ogun Sanlisoy": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fahriye Özay": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yonca Evcimik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tamer koc": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fadil Aydin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Oguz Yilmaz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Bora Duran": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Porcay (Porcay)": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cvrtoon": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tolunay Ören": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Zeyd": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "cansever": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Didomido": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gulcin Ergul": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Burak Balkan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tankurt Manas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cihan Murtezaoglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Bilal Göregen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Murat Kekilli": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Zeynep Dizdar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Eda Baba": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "BÖ": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Asil Gök": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fatih Karaytu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Engin Nursani": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Betul Demir": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kivircik Ali Özutemiz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "izel": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Murat Belet": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tugba Ekinci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Koliva": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "DJ Tarkan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Murat Akgun": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ferat ungur": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Gökce": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "hasan bayar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hakan Peker": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yasir Miy": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Emel Sayin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yusuf Tomakin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Neslihan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "kaikaén": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "overrated": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Xece herdem": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Berksan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Halil Yildirim": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Stres Beats": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hakki Bulut": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Zawanbeats": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ayla Dikmen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Carlita": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Berkay Altunyay": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ayse Hatun Onal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Asuman Dabak": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "13 Killoki": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Humeyra": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Guncel Gursel Artiktay": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ilkan Gunuc": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tepki": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kaya Giray": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Huseyin Kagit": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Nukhet Duru": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "idil Biret": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ferah Zeydan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ALi BARAN": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tefo": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Cem erdost ileri": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ahmet Kilic": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Berk Baysal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Joker": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ezginin Gunlugu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Oguz Aksac": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "siyar Berwari": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Sehabe": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "DJ Artz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yusuf Hayaloglu": {
+        "id": "1uT6HqbLNYwgG1HolDsbpK",
         "name": "Yusuf Hayaloglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+        "popularity": 36,
+        "followers": 13985,
+        "genres": [
+            "arabesk"
+        ],
+        "image": "https://i.scdn.co/image/ab67616d0000b2730b3e49e68d86a8c20071b0d9",
+        "first_album": "Ah Ulan Rıza",
+        "debut_year": "1999-04-02",
+        "spotify_url": "https://open.spotify.com/artist/1uT6HqbLNYwgG1HolDsbpK",
+        "updated": true,
+        "updated_date": 1741344697.9914172
     },
-    {
-        "name": "Kursat Juan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Kursat Juan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Gaye Su Akyol",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Gaye Su Akyol": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ebru Polat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ebru Polat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Bagzilari",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Bagzilari": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Ayten Alpman",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Ayten Alpman": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Mazhar Alanson",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Mazhar Alanson": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Zen-G",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Zen-G": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "ilkay Akkaya",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "ilkay Akkaya": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "TNK",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "TNK": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Bahar gelir",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Bahar gelir": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "cagri Sinci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "cagri Sinci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Aylin Coskun",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Aylin Coskun": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "SNOW",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "SNOW": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "cankan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "cankan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Reyhan Karaca",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Reyhan Karaca": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "EGE!",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "EGE!": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Can Yuce",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Can Yuce": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Pinkeu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Pinkeu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Deniz Tekin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Deniz Tekin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Aleyna Kalaycioglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Aleyna Kalaycioglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Beyazit Özturk",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Beyazit Özturk": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "iMMORTAL PLAYA",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "iMMORTAL PLAYA": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Karmate",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Karmate": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Alper Egri",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Alper Egri": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Solvekin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Solvekin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Leman Sam",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Leman Sam": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Mustafa Sevim",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Mustafa Sevim": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
+    "Kayahan": {
+        "id": "71wTGSTWEPSLnfe7tA2wkX",
         "name": "Kayahan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Niran unsal",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ados",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ikikardesh",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Rushex",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Dj Janti",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Lara",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Son of Son",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "amorf",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kutsi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kubat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Anil Durmus",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Critical",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Lia Shine",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Zehra",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Pilli Bebek",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Husnu Senlendirici",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Buyuk Ev Ablukada",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Seko",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Elanur",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Burry Soprano",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Demet Sagiroglu",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Keremcem",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Petek Dincöz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Adnan senses",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ATE",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Rengin",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Abugat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kargo",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Pentagram",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Badem",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Evrencan Gunduz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Yavuz Bingöl",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "izzet yildizhan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Zeki Muren",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "XiR",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mirkelam",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Tarik Menguc",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fatih Erkoc",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kerem Alisik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Esmeray",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fuat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ismail Turut",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Arsiz Bela",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "deprezz",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mavi isiklar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Haktan Canevi",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Keisan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mehmet Gureli",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Da Poet",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Metin senturk",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ilhan irem",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Seren Serengil",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Fikret Kizilok",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ömur Gedik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Grup Gökturkler",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "irem",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Muazzez Abaci",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ankarali Namik",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Orkundk",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mogollar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Ayben",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "iskender Paydas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Hey! Douglas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "ilhan sesen",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Mahmut Tuncer",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Dario Moreno",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
-        "name": "Kobra Murat",
-        "debut_year": "N/A",
-        "group_size": "N/A"
-    },
-    {
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 50,
+        "followers": 372672,
+        "genres": "Pop",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb231ad3caabfba2b73e0509fa",
+        "first_album": "Benim Şarkılarım",
+        "debut_year": "1988-01-01",
+        "spotify_url": "https://open.spotify.com/artist/71wTGSTWEPSLnfe7tA2wkX",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741345944.054906
+    },
+    "Niran unsal": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ados": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ikikardesh": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Rushex": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Dj Janti": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Lara": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Son of Son": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "amorf": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kutsi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kubat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Anil Durmus": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Critical": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Lia Shine": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Zehra": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Pilli Bebek": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Husnu Senlendirici": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Buyuk Ev Ablukada": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Seko": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Elanur": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Burry Soprano": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Demet Sagiroglu": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Keremcem": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Petek Dincöz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Adnan senses": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ATE": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Rengin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Abugat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kargo": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Pentagram": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Badem": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Evrencan Gunduz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Yavuz Bingöl": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "izzet yildizhan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Zeki Muren": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "XiR": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mirkelam": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Tarik Menguc": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fatih Erkoc": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kerem Alisik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Esmeray": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fuat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ismail Turut": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Arsiz Bela": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "deprezz": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mavi isiklar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Haktan Canevi": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Keisan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mehmet Gureli": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Da Poet": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Metin senturk": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ilhan irem": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Seren Serengil": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Fikret Kizilok": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ömur Gedik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Grup Gökturkler": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "irem": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Muazzez Abaci": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ankarali Namik": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Orkundk": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mogollar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ayben": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "iskender Paydas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Hey! Douglas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "ilhan sesen": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Mahmut Tuncer": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Dario Moreno": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Kobra Murat": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ayta Sözeri": {
+        "id": "5fDW8jzdmux7kdNxvceywZ",
         "name": "Ayta Sözeri",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+        "popularity": 30,
+        "followers": 10595,
+        "genres": [
+            "arabesk",
+            "turkish pop",
+            "oyun havasi"
+        ],
+        "image": "https://i.scdn.co/image/ab67616d0000b273fb14c3827fb0cf12224856bf",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/5fDW8jzdmux7kdNxvceywZ",
+        "updated": true,
+        "updated_date": 1741344928.2131264
     },
-    {
-        "name": "Nesrin Cavadzade",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Nesrin Cavadzade": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Atilla Tas",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Atilla Tas": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Muzeyyen Senar",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Muzeyyen Senar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Dus Sokagi Sakinleri",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Dus Sokagi Sakinleri": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Safiye Soyman",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Safiye Soyman": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Latif Dogan",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Latif Dogan": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
-    {
-        "name": "Yung Ouzo",
-        "debut_year": "N/A",
-        "group_size": "N/A"
+    "Yung Ouzo": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
+    "Ender Balkır": {
+        "id": "07kEnIFmiV0WbPG6FqqrU0",
+        "name": "Ender Balkır",
+        "popularity": 47,
+        "followers": 76649,
+        "genres": [
+            "arabesk"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcdc5f0de09d4fd3f70a0d7df",
+        "first_album": "Ezim Ezim",
+        "debut_year": "2007-05-09",
+        "spotify_url": "https://open.spotify.com/artist/07kEnIFmiV0WbPG6FqqrU0",
+        "updated": true,
+        "updated_date": 1741344966.7018142
+    },
+    "Güler Duman": {
+        "id": "56TBrBN0rtJxZfvKcGtfDS",
+        "name": "Güler Duman",
+        "popularity": 48,
+        "followers": 183269,
+        "genres": [
+            "arabesk",
+            "karadeniz folk"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb7bdf5fae3a18ccb676c3c509",
+        "first_album": "Seher Yeli",
+        "debut_year": "1986-12-09",
+        "spotify_url": "https://open.spotify.com/artist/56TBrBN0rtJxZfvKcGtfDS",
+        "updated": true,
+        "updated_date": 1741344998.2243423
+    },
+    "Çılgın Dondurmacı": {
+        "id": "3Xwczv1mZ33yx5CyXpZUpy",
+        "name": "Çılgın Dondurmacı",
+        "popularity": 26,
+        "followers": 8492,
+        "genres": [
+            "oyun havasi"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb43c5d17262dd4cb8c64795de",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/3Xwczv1mZ33yx5CyXpZUpy",
+        "updated": true,
+        "updated_date": 1741345100.1059504
+    },
+    "Sıla Şahin": {
+        "id": "7p71hjdN4GlGgIsmCQIvuC",
+        "name": "Sıla Şahin",
+        "popularity": 57,
+        "followers": 249927,
+        "genres": [
+            "turkish pop",
+            "arabesk"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb689dd525ae5c441b82d3dd4e",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC",
+        "updated": true,
+        "updated_date": 1741345185.6843934
+    },
+    "Ragıb Narin": {
+        "id": "3RcnnVusQQzqEtkvSVKPKg",
+        "name": "Ragıb Narin",
+        "popularity": 32,
+        "followers": 36049,
+        "genres": [
+            "turkish pop"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb38e64ea84761c5631674c784",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg",
+        "updated": true,
+        "updated_date": 1741345389.5081341
+    },
+    "mor ve ötesi": {
+        "id": "5ixQSDvAMa5O758xG8MWXT",
+        "name": "mor ve ötesi",
+        "popularity": 62,
+        "followers": 2443251,
+        "genres": [
+            "anatolian rock",
+            "turkish pop"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb32c198a198e8efe489b8948a",
+        "first_album": "Şehir",
+        "debut_year": "1997-01-01",
+        "spotify_url": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT",
+        "updated": true,
+        "updated_date": 1741345416.3577151
+    },
+    "Tülay Maciran": {
+        "id": "4j6jsMeLNhbGsukg8ofn92",
+        "name": "Tülay Maciran",
+        "popularity": 52,
+        "followers": 151829,
+        "genres": [
+            "arabesk",
+            "oyun havasi"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc15afa4cd407068bca1c5112",
+        "first_album": "Melek Yüzlüm",
+        "debut_year": "2009-07-08",
+        "spotify_url": "https://open.spotify.com/artist/4j6jsMeLNhbGsukg8ofn92",
+        "updated": true,
+        "updated_date": 1741345514.5216606
+    },
+    "Halit Bilgiç": {
+        "id": "4jIFETLK9IxxGeRErzDGDB",
+        "name": "Halit Bilgiç",
+        "popularity": 46,
+        "followers": 150416,
+        "genres": [
+            "arabesk"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb55531e91d5713dca8661b735",
+        "first_album": "Özgürlük Çiçeğimsin",
+        "debut_year": "2011-03-02",
+        "spotify_url": "https://open.spotify.com/artist/4jIFETLK9IxxGeRErzDGDB",
+        "updated": true,
+        "updated_date": 1741345565.4757266
+    },
+    "EDIS": {
+        "id": "1AM52XHXnWAEqnQwpxTLWm",
+        "name": "EDIS",
+        "popularity": 59,
+        "followers": 2172641,
+        "genres": [
+            "turkish pop",
+            "t-pop"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb34746b3c2c8b1bdca2430e0f",
+        "first_album": "An",
+        "debut_year": "2018-03-07",
+        "spotify_url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm",
+        "updated": true,
+        "updated_date": 1741345594.141181
+    },
+    "Ferhat Tunç": {
+        "id": "6yoSn7S0JYv4R1gp3zObWd",
+        "name": "Ferhat Tunç",
+        "popularity": 49,
+        "followers": 120768,
+        "genres": [
+            "arabesk"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb319904dfef807dc6b0d7ca36",
+        "first_album": "Ay Işığı Yana Yana",
+        "debut_year": "1987",
+        "spotify_url": "https://open.spotify.com/artist/6yoSn7S0JYv4R1gp3zObWd",
+        "updated": true,
+        "updated_date": 1741345658.3740263
+    },
+    "Bilal Hancı": {
+        "id": "2wswrLV1o19frClh3pHxws",
+        "name": "Bilal Hancı",
+        "popularity": 45,
+        "followers": 531095,
+        "genres": [
+            "karadeniz folk",
+            "turkish pop",
+            "arabesk"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5eb7289e07c6fa03bb831dbf8dd",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/2wswrLV1o19frClh3pHxws",
+        "updated": true,
+        "updated_date": 1741345687.6427615
+    },
+    "Ömer Bükülmezoğlu": {
+        "id": "13RGY36nTZw0ezEedQp7rs",
+        "name": "Ömer Bükülmezoğlu",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 42,
+        "followers": 24182,
+        "genres": [
+            "deep house"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcf276ad4e6f4d06b4b4655c9",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/13RGY36nTZw0ezEedQp7rs",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741345780.643485
+    },
+    "Ilkay Akkaya": {
+        "id": "1fIyC6Oj6CHRcB4jyVnw6t",
+        "name": "Ilkay Akkaya",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 39,
+        "followers": 191339,
+        "genres": "Folk",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb7a9b572866e55aa20718ff4e",
+        "first_album": "Kül",
+        "debut_year": "1997-12-05",
+        "spotify_url": "https://open.spotify.com/artist/1fIyC6Oj6CHRcB4jyVnw6t",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741345886.8495958
+    },
+    "Cimilli İbo": {
+        "id": "5vJ0V9IUcNBMOK1JDhqwd5",
+        "name": "Cimilli İbo",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 48,
+        "followers": 75573,
+        "genres": "Folk",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cde204a18402dca3dac431b8",
+        "first_album": "Hasretim Hepinize",
+        "debut_year": "2003-05-28",
+        "spotify_url": "https://open.spotify.com/artist/5vJ0V9IUcNBMOK1JDhqwd5",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741345902.1109962
     }
-]
+}

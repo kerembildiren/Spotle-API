@@ -1,3 +1,5 @@
+from pprint import pprint
+
 from app.spotify import search_artist
 
 def test_spotify():
@@ -5,7 +7,7 @@ def test_spotify():
 
     if artist:
         print("✅ Artist Found:")
-        print(artist)
+        pprint(artist, indent=4)
     else:
         print("❌ Artist Not Found")
 
