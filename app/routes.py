@@ -110,16 +110,16 @@ def select_random_singer():
 def compare_data(guess_data, correct_data):
     if type(guess_data) == int or type(guess_data) == float:
         if guess_data > correct_data:
-            return f"DOWN_({correct_data})"
+            return f"DOWN_({guess_data})"
         elif guess_data < correct_data:
-            return f"UP_({correct_data})"
+            return f"UP_({guess_data})"
         else:
-            return f"OK_{correct_data}"
+            return f"OK_{guess_data}"
     elif type(guess_data) == str:
         if guess_data == correct_data:
-            return f"OK_{correct_data}"
+            return f"OK_{guess_data}"
         else:
-            return f"NOK_{correct_data}"
+            return f"NOK_{guess_data}"
     else:
         return "NOK_ERROR"
 
