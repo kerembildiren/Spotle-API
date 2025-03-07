@@ -90,20 +90,10 @@
         }
     },
     "Semicenk": {
-        "id": "1CcZoULzFHa8Uhwo6OlQcp",
-        "name": "Semicenk",
-        "gender": "N/A",
-        "nationality": "N/A",
-        "popularity": 73,
-        "followers": 4926637,
-        "genres": "Pop",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb4f7f5c04098374eefedfc864",
-        "first_album": "",
-        "debut_year": "",
-        "spotify_url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp",
-        "group_size": "N/A",
-        "updated": true,
-        "updated_date": 1741345944.3968976
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
     "Ahmet Can Dundar": {
         "data": {
@@ -393,22 +383,11 @@
             "group_size": "N/A"
         }
     },
-    "Ebru Yaşar": {
-        "id": "0Qbd0AGWuzggX61s306wZN",
-        "name": "Ebru Yaşar",
-        "popularity": 61,
-        "followers": 994828,
-        "genres": [
-            "turkish pop",
-            "arabesk",
-            "oyun havasi"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5ebaa5bcf0798bf2a53ccc09cf7",
-        "first_album": "Sanat-ı Ebru",
-        "debut_year": "1990",
-        "spotify_url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN",
-        "updated": true,
-        "updated_date": 1741345126.5531745
+    "Ebru Yasar": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
     "ElMusto": {
         "data": {
@@ -447,17 +426,10 @@
         }
     },
     "Cem Yilmaz": {
-        "id": "3jviwAPHk5muprkV7igylB",
-        "name": "Cem Yilmaz",
-        "popularity": 9,
-        "followers": 340,
-        "genres": [],
-        "image": null,
-        "first_album": "",
-        "debut_year": "",
-        "spotify_url": "https://open.spotify.com/artist/3jviwAPHk5muprkV7igylB",
-        "updated": true,
-        "updated_date": 1741344801.1430624
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
     "Bege": {
         "data": {
@@ -766,20 +738,10 @@
         }
     },
     "Gripin": {
-        "id": "3Z814BstLaKbLqKHXsht8O",
-        "name": "Gripin",
-        "popularity": 60,
-        "followers": 1532694,
-        "genres": [
-            "turkish pop",
-            "anatolian rock"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb3df479605d05be4a69474c6a",
-        "first_album": "Hikayeler Anlatıldı 2. Baskı",
-        "debut_year": "2005-06-30",
-        "spotify_url": "https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O",
-        "updated": true,
-        "updated_date": 1741345355.5550694
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
     "Koray Avci": {
         "data": {
@@ -1255,6 +1217,12 @@
             "group_size": "N/A"
         }
     },
+    "Sila sahin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
+    },
     "Ahiyan": {
         "data": {
             "debut_year": "N/A",
@@ -1274,20 +1242,10 @@
         }
     },
     "Mehmet Erdem": {
-        "id": "0ylYRIvKTpv9uvTfKbYjM0",
-        "name": "Mehmet Erdem",
-        "popularity": 45,
-        "followers": 674739,
-        "genres": [
-            "turkish pop",
-            "arabesk"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb78beec5e4508246c65683346",
-        "first_album": "Dol (Orijinal Film Müzikleri)",
-        "debut_year": "2007-04-30",
-        "spotify_url": "https://open.spotify.com/artist/0ylYRIvKTpv9uvTfKbYjM0",
-        "updated": true,
-        "updated_date": 1741345247.1281195
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
     "DJ Kantik": {
         "data": {
@@ -2039,21 +1997,11 @@
             "group_size": "N/A"
         }
     },
-    "Merve Yalçın": {
-        "id": "3hz9oj5H2C1iTejt5IQpW2",
-        "name": "Merve Yalçın",
-        "popularity": 30,
-        "followers": 198123,
-        "genres": [
-            "manele",
-            "turkish pop"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb7082b072152d967027d70679",
-        "first_album": "",
-        "debut_year": "",
-        "spotify_url": "https://open.spotify.com/artist/3hz9oj5H2C1iTejt5IQpW2",
-        "updated": true,
-        "updated_date": 1741345147.2049053
+    "Merve Yalcin": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
     "Can Kazaz": {
         "data": {
@@ -2571,21 +2519,11 @@
             "group_size": "N/A"
         }
     },
-    "Onay Şahin": {
-        "id": "3T4j5fdpdhQhST5dzQjQV7",
-        "name": "Onay Şahin",
-        "popularity": 44,
-        "followers": 54829,
-        "genres": [
-            "karadeniz folk",
-            "oyun havasi"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb67dede1d8054eb57104e6545",
-        "first_album": "Onaylı Kaydeler",
-        "debut_year": "2008-06-04",
-        "spotify_url": "https://open.spotify.com/artist/3T4j5fdpdhQhST5dzQjQV7",
-        "updated": true,
-        "updated_date": 1741345165.2263336
+    "Onay sAHiN": {
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
     "Emrah": {
         "data": {
@@ -3356,19 +3294,10 @@
         }
     },
     "Yusuf Hayaloglu": {
-        "id": "1uT6HqbLNYwgG1HolDsbpK",
-        "name": "Yusuf Hayaloglu",
-        "popularity": 36,
-        "followers": 13985,
-        "genres": [
-            "arabesk"
-        ],
-        "image": "https://i.scdn.co/image/ab67616d0000b2730b3e49e68d86a8c20071b0d9",
-        "first_album": "Ah Ulan Rıza",
-        "debut_year": "1999-04-02",
-        "spotify_url": "https://open.spotify.com/artist/1uT6HqbLNYwgG1HolDsbpK",
-        "updated": true,
-        "updated_date": 1741344697.9914172
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
     "Kursat Juan": {
         "data": {
@@ -3533,20 +3462,10 @@
         }
     },
     "Kayahan": {
-        "id": "71wTGSTWEPSLnfe7tA2wkX",
-        "name": "Kayahan",
-        "gender": "N/A",
-        "nationality": "N/A",
-        "popularity": 372672,
-        "followers": "372K",
-        "genres": "Pop",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb231ad3caabfba2b73e0509fa",
-        "first_album": "Benim Şarkılarım",
-        "debut_year": "1988-01-01",
-        "spotify_url": "https://open.spotify.com/artist/71wTGSTWEPSLnfe7tA2wkX",
-        "group_size": "N/A",
-        "updated": true,
-        "updated_date": 1741347586.819677
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
     "Niran unsal": {
         "data": {
@@ -3951,21 +3870,10 @@
         }
     },
     "Ayta Sözeri": {
-        "id": "5fDW8jzdmux7kdNxvceywZ",
-        "name": "Ayta Sözeri",
-        "popularity": 30,
-        "followers": 10595,
-        "genres": [
-            "arabesk",
-            "turkish pop",
-            "oyun havasi"
-        ],
-        "image": "https://i.scdn.co/image/ab67616d0000b273fb14c3827fb0cf12224856bf",
-        "first_album": "",
-        "debut_year": "",
-        "spotify_url": "https://open.spotify.com/artist/5fDW8jzdmux7kdNxvceywZ",
-        "updated": true,
-        "updated_date": 1741344928.2131264
+        "data": {
+            "debut_year": "N/A",
+            "group_size": "N/A"
+        }
     },
     "Nesrin Cavadzade": {
         "data": {
@@ -4008,227 +3916,5 @@
             "debut_year": "N/A",
             "group_size": "N/A"
         }
-    },
-    "Ender Balkır": {
-        "id": "07kEnIFmiV0WbPG6FqqrU0",
-        "name": "Ender Balkır",
-        "popularity": 47,
-        "followers": 76649,
-        "genres": [
-            "arabesk"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5ebcdc5f0de09d4fd3f70a0d7df",
-        "first_album": "Ezim Ezim",
-        "debut_year": "2007-05-09",
-        "spotify_url": "https://open.spotify.com/artist/07kEnIFmiV0WbPG6FqqrU0",
-        "updated": true,
-        "updated_date": 1741344966.7018142
-    },
-    "Güler Duman": {
-        "id": "56TBrBN0rtJxZfvKcGtfDS",
-        "name": "Güler Duman",
-        "popularity": 48,
-        "followers": 183269,
-        "genres": [
-            "arabesk",
-            "karadeniz folk"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb7bdf5fae3a18ccb676c3c509",
-        "first_album": "Seher Yeli",
-        "debut_year": "1986-12-09",
-        "spotify_url": "https://open.spotify.com/artist/56TBrBN0rtJxZfvKcGtfDS",
-        "updated": true,
-        "updated_date": 1741344998.2243423
-    },
-    "Çılgın Dondurmacı": {
-        "id": "3Xwczv1mZ33yx5CyXpZUpy",
-        "name": "Çılgın Dondurmacı",
-        "popularity": 26,
-        "followers": 8492,
-        "genres": [
-            "oyun havasi"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb43c5d17262dd4cb8c64795de",
-        "first_album": "",
-        "debut_year": "",
-        "spotify_url": "https://open.spotify.com/artist/3Xwczv1mZ33yx5CyXpZUpy",
-        "updated": true,
-        "updated_date": 1741345100.1059504
-    },
-    "Sıla Şahin": {
-        "id": "7p71hjdN4GlGgIsmCQIvuC",
-        "name": "Sıla Şahin",
-        "popularity": 57,
-        "followers": 249927,
-        "genres": [
-            "turkish pop",
-            "arabesk"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb689dd525ae5c441b82d3dd4e",
-        "first_album": "",
-        "debut_year": "",
-        "spotify_url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC",
-        "updated": true,
-        "updated_date": 1741345185.6843934
-    },
-    "Ragıb Narin": {
-        "id": "3RcnnVusQQzqEtkvSVKPKg",
-        "name": "Ragıb Narin",
-        "popularity": 32,
-        "followers": 36049,
-        "genres": [
-            "turkish pop"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb38e64ea84761c5631674c784",
-        "first_album": "",
-        "debut_year": "",
-        "spotify_url": "https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg",
-        "updated": true,
-        "updated_date": 1741345389.5081341
-    },
-    "mor ve ötesi": {
-        "id": "5ixQSDvAMa5O758xG8MWXT",
-        "name": "mor ve ötesi",
-        "popularity": 62,
-        "followers": 2443251,
-        "genres": [
-            "anatolian rock",
-            "turkish pop"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb32c198a198e8efe489b8948a",
-        "first_album": "Şehir",
-        "debut_year": "1997-01-01",
-        "spotify_url": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT",
-        "updated": true,
-        "updated_date": 1741345416.3577151
-    },
-    "Tülay Maciran": {
-        "id": "4j6jsMeLNhbGsukg8ofn92",
-        "name": "Tülay Maciran",
-        "popularity": 52,
-        "followers": 151829,
-        "genres": [
-            "arabesk",
-            "oyun havasi"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5ebc15afa4cd407068bca1c5112",
-        "first_album": "Melek Yüzlüm",
-        "debut_year": "2009-07-08",
-        "spotify_url": "https://open.spotify.com/artist/4j6jsMeLNhbGsukg8ofn92",
-        "updated": true,
-        "updated_date": 1741345514.5216606
-    },
-    "Halit Bilgiç": {
-        "id": "4jIFETLK9IxxGeRErzDGDB",
-        "name": "Halit Bilgiç",
-        "popularity": 46,
-        "followers": 150416,
-        "genres": [
-            "arabesk"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb55531e91d5713dca8661b735",
-        "first_album": "Özgürlük Çiçeğimsin",
-        "debut_year": "2011-03-02",
-        "spotify_url": "https://open.spotify.com/artist/4jIFETLK9IxxGeRErzDGDB",
-        "updated": true,
-        "updated_date": 1741345565.4757266
-    },
-    "EDIS": {
-        "id": "1AM52XHXnWAEqnQwpxTLWm",
-        "name": "EDIS",
-        "popularity": 59,
-        "followers": 2172641,
-        "genres": [
-            "turkish pop",
-            "t-pop"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb34746b3c2c8b1bdca2430e0f",
-        "first_album": "An",
-        "debut_year": "2018-03-07",
-        "spotify_url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm",
-        "updated": true,
-        "updated_date": 1741345594.141181
-    },
-    "Ferhat Tunç": {
-        "id": "6yoSn7S0JYv4R1gp3zObWd",
-        "name": "Ferhat Tunç",
-        "popularity": 49,
-        "followers": 120768,
-        "genres": [
-            "arabesk"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb319904dfef807dc6b0d7ca36",
-        "first_album": "Ay Işığı Yana Yana",
-        "debut_year": "1987",
-        "spotify_url": "https://open.spotify.com/artist/6yoSn7S0JYv4R1gp3zObWd",
-        "updated": true,
-        "updated_date": 1741345658.3740263
-    },
-    "Bilal Hancı": {
-        "id": "2wswrLV1o19frClh3pHxws",
-        "name": "Bilal Hancı",
-        "popularity": 45,
-        "followers": 531095,
-        "genres": [
-            "karadeniz folk",
-            "turkish pop",
-            "arabesk"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5eb7289e07c6fa03bb831dbf8dd",
-        "first_album": "",
-        "debut_year": "",
-        "spotify_url": "https://open.spotify.com/artist/2wswrLV1o19frClh3pHxws",
-        "updated": true,
-        "updated_date": 1741345687.6427615
-    },
-    "Ömer Bükülmezoğlu": {
-        "id": "13RGY36nTZw0ezEedQp7rs",
-        "name": "Ömer Bükülmezoğlu",
-        "gender": "N/A",
-        "nationality": "N/A",
-        "popularity": 42,
-        "followers": 24182,
-        "genres": [
-            "deep house"
-        ],
-        "image": "https://i.scdn.co/image/ab6761610000e5ebcf276ad4e6f4d06b4b4655c9",
-        "first_album": "",
-        "debut_year": "",
-        "spotify_url": "https://open.spotify.com/artist/13RGY36nTZw0ezEedQp7rs",
-        "group_size": "N/A",
-        "updated": true,
-        "updated_date": 1741345780.643485
-    },
-    "Ilkay Akkaya": {
-        "id": "1fIyC6Oj6CHRcB4jyVnw6t",
-        "name": "Ilkay Akkaya",
-        "gender": "N/A",
-        "nationality": "N/A",
-        "popularity": 39,
-        "followers": 191339,
-        "genres": "Folk",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb7a9b572866e55aa20718ff4e",
-        "first_album": "Kül",
-        "debut_year": "1997-12-05",
-        "spotify_url": "https://open.spotify.com/artist/1fIyC6Oj6CHRcB4jyVnw6t",
-        "group_size": "N/A",
-        "updated": true,
-        "updated_date": 1741345886.8495958
-    },
-    "Cimilli İbo": {
-        "id": "5vJ0V9IUcNBMOK1JDhqwd5",
-        "name": "Cimilli İbo",
-        "gender": "N/A",
-        "nationality": "N/A",
-        "popularity": 48,
-        "followers": 75573,
-        "genres": "Folk",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cde204a18402dca3dac431b8",
-        "first_album": "Hasretim Hepinize",
-        "debut_year": "2003-05-28",
-        "spotify_url": "https://open.spotify.com/artist/5vJ0V9IUcNBMOK1JDhqwd5",
-        "group_size": "N/A",
-        "updated": true,
-        "updated_date": 1741345902.1109962
     }
 }
