@@ -26,8 +26,8 @@ def get_artist_data_dict():
     with open(JSON_FILE_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
-# @router.get("/genres")
-def get_all_genres():
+@router.get("/genres")
+async def get_all_genres():
     """Fetch all unique genres from Turkish singers and identify similar ones."""
     genre_set = set()
 
@@ -38,7 +38,6 @@ def get_all_genres():
                 genre_set.add(genre)
 
     return {"unique_genres": sorted(genre_set)}
-print(get_all_genres())
 
 @router.get("/turkish_singers")
 async def get_turkish_singers():
