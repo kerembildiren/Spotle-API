@@ -108,20 +108,21 @@ def select_random_singer():
 
 
 def compare_data(guess_data, correct_data):
-    if type(guess_data) == int or type(guess_data) == float:
-        if guess_data > correct_data:
-            return f"DOWN_({guess_data})"
-        elif guess_data < correct_data:
-            return f"UP_({guess_data})"
-        else:
-            return f"OK_{guess_data}"
-    elif type(guess_data) == str:
+    if type(guess_data) == str:
         if guess_data == correct_data:
             return f"OK_{guess_data}"
         else:
             return f"NOK_{guess_data}"
     else:
-        return "NOK_ERROR"
+        try:
+            if guess_data > correct_data:
+                return f"DOWN_({guess_data})"
+            elif guess_data < correct_data:
+                return f"UP_({guess_data})"
+            else:
+                return f"OK_{guess_data}"
+        except:
+            return "NOK_ERROR"
 
 
 def compare_singers(guess, correct):
@@ -135,8 +136,8 @@ def compare_singers(guess, correct):
     result["gender"] = compare_data(guess['gender'], correct["gender"])
     result["genres"] = compare_data(guess['genres'], correct["genres"])
     result["nationality"] = compare_data(guess['nationality'], correct["nationality"])
-    result["followers"] = compare_data(guess['followers'], correct["followers"])
-    result["popularity"] = compare_data(guess['followers'], correct["followers"])
+    result["followers"] = spotify.format_followers_count(compare_data(guess['popularity'], correct["popularity"]))
+    result["popularity"] = compare_data(guess['popularity'], correct["popularity"])
 
     return result
 
