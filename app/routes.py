@@ -115,12 +115,12 @@ def compare_string_data(guess_data, correct_data):
 
 def compare_numeric_data(guess_data, correct_data):
     try:
-        guess_data = float(guess_data)
-        correct_data = float(correct_data)
+        guess_data = int(guess_data)
+        correct_data = int(correct_data)
         if guess_data > correct_data:
-            return f"DOWN_({guess_data})"
+            return f"DOWN_{guess_data}"
         elif guess_data < correct_data:
-            return f"UP_({guess_data})"
+            return f"UP_{guess_data}"
         else:
             return f"OK_{guess_data}"
     except ValueError:
@@ -144,15 +144,14 @@ def compare_singers(guess, correct):
     result["gender"] = compare_string_data(guess['gender'], correct["gender"])
     result["genres"] = compare_string_data(guess['genres'], correct["genres"])
     result["nationality"] = compare_string_data(guess['nationality'], correct["nationality"])
-    result["followers"] = compare_numeric_data(guess['followers'], correct["followers"])
+    result["followers"] = spotify.format_followers_count(compare_numeric_data(guess['popularity'], correct["popularity"]))
     result["popularity"] = compare_numeric_data(guess['popularity'], correct["popularity"])
-    result["CORRECT_ARTIST"] = compare_string_data(guess['CORRECT_ARTIST'], correct["CORRECT_ARTIST"])
 
     return result
 
 
-@router.get("/search")
-async def search_singer(artist_name: str):
+# @router.get("/search")
+def search_singer(artist_name: str):
     """Search for an artist in Spotify and return their data, but only if they exist in the Turkish singers dataset."""
     config.SEARCH_REQ = True
     # 1. artist secildi mi kontrolu
@@ -179,3 +178,5 @@ async def search_singer(artist_name: str):
     # print(f"🔥 DEBUG: {artist_data['name']} - Raw: {raw_followers}, Formatted: {formatted_followers}")
     config.SEARCH_REQ = False
     return compared_data
+
+print(search_singer("Tarkan"))

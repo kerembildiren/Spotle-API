@@ -63,7 +63,8 @@ def format_followers_count(followers):
 
     if not isinstance(followers, (int, float)):  # Ensure it's a number
         print(f"⚠️ Followers data is not a valid number: {followers}")
-        return followers  # Return as-is if it's not a number
+        sign, followers = followers.split("_")
+        followers = int(followers)
 
     # print(f"📌 Formatting followers count: {followers}")  # ✅ Debugging print
 
@@ -75,7 +76,10 @@ def format_followers_count(followers):
         formatted = str(followers)  # If below 1K, keep it as-is
 
     # print(f"✅ Formatted followers: {formatted}")  # ✅ Debugging print
-    return formatted
+    try:
+        return f"{sign}_{formatted}"
+    except:
+        return formatted
 
 
 def search_artist(artist_name):
