@@ -113,15 +113,15 @@ def compare_singers(guess, correct):
     # ✅ Compare each attribute & mark matches in green
     result["name"] = guess["name"]
     result["image"] = guess["image"]
-    result["debut_year"] = f"✅ {guess['debut_year']}" if guess["debut_year"] == correct["debut_year"] else str(
+    result["debut_year"] = f"OK_{guess['debut_year']}" if guess["debut_year"] == correct["debut_year"] else str(
         guess["debut_year"])
-    result["group_size"] = f"✅ {guess['group_size']}" if guess["group_size"] == correct["group_size"] else str(
+    result["group_size"] = f"OK_{guess['group_size']}" if guess["group_size"] == correct["group_size"] else str(
         guess["group_size"])
-    result["gender"] = f"✅ {guess['gender']}" if guess["gender"] == correct["gender"] else guess["gender"]
-    result["genres"] = f"✅ {guess['genres']}" if guess["genres"] == correct["genres"] else guess["genres"]
-    result["nationality"] = f"✅ {guess['nationality']}" if guess["nationality"] == correct["nationality"] else guess[
+    result["gender"] = f"OK_{guess['gender']}" if guess["gender"] == correct["gender"] else guess["gender"]
+    result["genres"] = f"OK_{guess['genres']}" if guess["genres"] == correct["genres"] else guess["genres"]
+    result["nationality"] = f"OK_{guess['nationality']}" if guess["nationality"] == correct["nationality"] else guess[
         "nationality"]
-    result["followers"] = f"✅ {guess['followers']}" if guess["followers"] == correct["followers"] else guess[
+    result["followers"] = f"OK_{guess['followers']}" if guess["followers"] == correct["followers"] else guess[
         "followers"]
 
     # ✅ Show "⬆ Higher" or "⬇ Lower" for popularity
@@ -129,11 +129,11 @@ def compare_singers(guess, correct):
     correct_followers = correct.get("popularity", 0)
 
     if guess_followers > correct_followers:
-        result["popularity"] = f"⬇ Lower ({guess['followers']})"
+        result["popularity"] = f"DOWN_({guess['followers']})"
     elif guess_followers < correct_followers:
-        result["popularity"] = f"⬆ Higher ({guess['followers']})"
+        result["popularity"] = f"UP_({guess['followers']})"
     else:
-        result["popularity"] = f"✅ {guess_followers}"
+        result["popularity"] = f"OK_{guess_followers}"
 
     return result
 
