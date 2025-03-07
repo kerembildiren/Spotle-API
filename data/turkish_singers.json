@@ -1,9 +1,19 @@
 {
     "BLOK3": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "1GMwSpFzrLd12jUX15bHB6",
+        "name": "BLOK3",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 3094064,
+        "followers": "3.1M",
+        "genres": "Rap",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb29ed73e6f316794abb4748eb",
+        "first_album": "OBSESIF",
+        "debut_year": "2024-09-13",
+        "spotify_url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349666.397564
     },
     "Al Shami": {
         "data": {
@@ -12,90 +22,220 @@
         }
     },
     "Sezen Aksu": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "64d1rUxfizSAOE9UbMnUZd",
+        "name": "Sezen Aksu",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 11908994,
+        "followers": "11.9M",
+        "genres": "Pop",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb921bc8ec2fae6d0b6f8a7834",
+        "first_album": "Allahaısmarladık",
+        "debut_year": "1977-09-01",
+        "spotify_url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349667.2125714
     },
     "Ati242": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "6bGOmNBU1AOgttgOjh0ldf",
+        "name": "Ati242",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 2014989,
+        "followers": "2.0M",
+        "genres": "Rap",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc3a595cff718a1b928d0a1d8",
+        "first_album": "DIPSOMANIA",
+        "debut_year": "2021-06-11",
+        "spotify_url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349667.638297
     },
     "Mete Kayagil": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "1N8C5qNJBhoZ8Sugygg1jS",
+        "name": "Mete Kayagil",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 169637,
+        "followers": "169K",
+        "genres": "Other",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb5855bdcf4ee27d364b2311e1",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/1N8C5qNJBhoZ8Sugygg1jS",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349668.0613823
     },
     "Filiz Kemal": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "0nHLl23rmIq5u0lYzUmn39",
+        "name": "Filiz Kemal",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 31483,
+        "followers": "31K",
+        "genres": "Other",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb519812735215cba7d0577ef4",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/0nHLl23rmIq5u0lYzUmn39",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349668.4003248
     },
     "Lvbel C5": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "0V2oXYR7DtrZAEFeILRW2r",
+        "name": "Lvbel C5",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 3700858,
+        "followers": "3.7M",
+        "genres": "Rap",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb9cff987c68dba5e50d9258a9",
+        "first_album": "C5MODE",
+        "debut_year": "2022-03-18",
+        "spotify_url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349668.7301812
     },
-    "Gulsen": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+    "Gülşen": {
+        "id": "1F2v33FQTavJyaD7ZsyhdA",
+        "name": "Gülşen",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 1906065,
+        "followers": "1.9M",
+        "genres": "Pop",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebf753342d107655a0e882b3fc",
+        "first_album": "Be Adam",
+        "debut_year": "1996-07-11",
+        "spotify_url": "https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349669.2312124
     },
     "Tarkan": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "2yMN0IP20GOaN6q0p0zL5k",
+        "name": "Tarkan",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 3634759,
+        "followers": "3.6M",
+        "genres": "Pop",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb7addc58dd2bd5e9d83c83cc4",
+        "first_album": "Yine Sensiz",
+        "debut_year": "1993-06-21",
+        "spotify_url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349669.625946
     },
     "Duman": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "6RTC1abMgBC7Krg6qJQHJh",
+        "name": "Duman",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 6409464,
+        "followers": "6.4M",
+        "genres": "Rock",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb5eedfda3da66eb4591be4fa7",
+        "first_album": "Eski Köprünün Altında",
+        "debut_year": "1999-11-05",
+        "spotify_url": "https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349670.026865
     },
     "Ahmet Kaya": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "1Y2FwScblyMxpLTrNdfwyU",
+        "name": "Ahmet Kaya",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 6437753,
+        "followers": "6.4M",
+        "genres": "Arabesque",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8104de0cf19874d911fb335c",
+        "first_album": "Acılara Tutunmak",
+        "debut_year": "1985",
+        "spotify_url": "https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349670.460513
     },
     "Mabel Matiz": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "1dpqJqIuNqideTvmxBsSku",
+        "name": "Mabel Matiz",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 5011839,
+        "followers": "5.0M",
+        "genres": "Pop",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb18f16c7e0df89ff5627f0797",
+        "first_album": "Mabel Matiz",
+        "debut_year": "2012",
+        "spotify_url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349670.8694527
     },
     "cakal": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "6CPZWzcKiOKkHn4L2XI4i2",
+        "name": "cakal",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 2469118,
+        "followers": "2.5M",
+        "genres": "Rap",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc9731900394e3b71f8f83da7",
+        "first_album": "Paradoks",
+        "debut_year": "2022-05-13",
+        "spotify_url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349671.2275672
     },
     "Sertab Erener": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "4W31XN2JH8mC54NkHdh04s",
+        "name": "Sertab Erener",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 2037197,
+        "followers": "2.0M",
+        "genres": "Pop",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba8a6b036aca9df227812800a",
+        "first_album": "Sakin Ol",
+        "debut_year": "1992-09-28",
+        "spotify_url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349671.6741536
     },
     "Reynmen": {
-        "data": {
-            "debut_year": "N/A",
-            "group_size": "N/A"
-        }
+        "id": "1Fg19vpUJpAAPFjnKaVYVW",
+        "name": "Reynmen",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 2976713,
+        "followers": "3.0M",
+        "genres": "Pop",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb27b7a649f65ac2b7bad899d0",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349672.0523248
     },
     "Semicenk": {
         "id": "1CcZoULzFHa8Uhwo6OlQcp",
         "name": "Semicenk",
         "gender": "N/A",
         "nationality": "N/A",
-        "popularity": 73,
-        "followers": 4926637,
+        "popularity": 4926637,
+        "followers": "4.9M",
         "genres": "Pop",
         "image": "https://i.scdn.co/image/ab6761610000e5eb4f7f5c04098374eefedfc864",
         "first_album": "",
@@ -103,7 +243,7 @@
         "spotify_url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp",
         "group_size": "N/A",
         "updated": true,
-        "updated_date": 1741345944.3968976
+        "updated_date": 1741349672.4095337
     },
     "Ahmet Can Dundar": {
         "data": {
@@ -111,7 +251,7 @@
             "group_size": "N/A"
         }
     },
-    "Muslum Gurses": {
+    "Müslüm Gürses": {
         "data": {
             "debut_year": "N/A",
             "group_size": "N/A"
@@ -123,13 +263,13 @@
             "group_size": "N/A"
         }
     },
-    "Melike sahin": {
+    "Melike Şahin": {
         "data": {
             "debut_year": "N/A",
             "group_size": "N/A"
         }
     },
-    "Ebru Gundes": {
+    "Ebru Gündeş": {
         "data": {
             "debut_year": "N/A",
             "group_size": "N/A"
@@ -4230,5 +4370,85 @@
         "group_size": "N/A",
         "updated": true,
         "updated_date": 1741345902.1109962
+    },
+    "AL SHAMI": {
+        "id": "597R32EkdYgLMf1tQcHF8k",
+        "name": "AL SHAMI",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 707330,
+        "followers": "707K",
+        "genres": "Arabic",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebef9a4800341fe0c9a93cbc40",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349666.7987382
+    },
+    "Ahmet Can Dündar": {
+        "id": "2CfLhZicaPoTzcxnfHn7Lr",
+        "name": "Ahmet Can Dündar",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 349826,
+        "followers": "349K",
+        "genres": "Pop",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8a31ba8b536b1d8b05f20a4f",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/2CfLhZicaPoTzcxnfHn7Lr",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349672.743537
+    },
+    "Müslüm Gürses": {
+        "id": "4cMwyqmHCwJjRZ3frIVHTr",
+        "name": "Müslüm Gürses",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 8417467,
+        "followers": "8.4M",
+        "genres": "Arabesque",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb27b3b0e9154e12899b9ff22e",
+        "first_album": "Açıkhava Konserleri, Vol. 1 (Istanbul)",
+        "debut_year": "2002-10-09",
+        "spotify_url": "https://open.spotify.com/artist/4cMwyqmHCwJjRZ3frIVHTr",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349673.2952805
+    },
+    "Dedublüman": {
+        "id": "5PRW6j58xEEWL4DDVEITKT",
+        "name": "Dedublüman",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 1910233,
+        "followers": "1.9M",
+        "genres": "Arabesque",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb01c788a11415f322aa46e1b9",
+        "first_album": "",
+        "debut_year": "",
+        "spotify_url": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349673.6378956
+    },
+    "Melike Şahin": {
+        "id": "16GyR4WfCnIT2XST4ZLl2B",
+        "name": "Melike Şahin",
+        "gender": "N/A",
+        "nationality": "N/A",
+        "popularity": 1327389,
+        "followers": "1.3M",
+        "genres": "Pop",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb3b5fe0d1b9e8972818d66c63",
+        "first_album": "Merhem",
+        "debut_year": "2021-02-26",
+        "spotify_url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B",
+        "group_size": "N/A",
+        "updated": true,
+        "updated_date": 1741349674.1268568
     }
 }

@@ -20,28 +20,28 @@ router = APIRouter()
 
 # Load the Turkish singers JSON file
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-JSON_FILE_PATH = os.path.join(BASE_DIR, "/etc/secrets/turkish_singers.json")
+JSON_FILE_PATH = os.path.join(BASE_DIR, "../data/turkish_singers.json")
 
 def get_artist_data_dict():
     with open(JSON_FILE_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
-@router.get("/genres")
-async def get_all_genres():
+# @router.get("/genres")
+def get_all_genres():
     """Fetch all unique genres from Turkish singers and identify similar ones."""
     genre_set = set()
 
     for singer in get_artist_data_dict():
-        artist_data = search_artist(singer["name"])
+        artist_data = search_artist(singer)
         if artist_data and "genres" in artist_data:
             for genre in artist_data["genres"]:
                 genre_set.add(genre)
 
     return {"unique_genres": sorted(genre_set)}
-
+print(get_all_genres())
 
 @router.get("/turkish_singers")
-def get_turkish_singers():
+async def get_turkish_singers():
     """Fetch Turkish singers' data from Spotify and rank them based on popularity."""
 
     singers_data = []
