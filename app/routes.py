@@ -40,7 +40,7 @@ async def get_all_genres():
     return {"unique_genres": sorted(genre_set)}
 
 
-# @router.get("/turkish_singers")
+@router.get("/turkish_singers")
 def get_turkish_singers():
     """Fetch Turkish singers' data from Spotify and rank them based on popularity."""
 
@@ -68,7 +68,6 @@ def get_turkish_singers():
                 })
         print(artist_data)
     return singers_data  # ✅ Remove unnecessary logging
-get_turkish_singers()
 
 def select_random_singer():
     turkish_singers = get_artist_data_dict()
