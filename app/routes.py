@@ -161,7 +161,7 @@ async def search_singer(artist_name: str):
 
     # 3. secildiyse, secilen artist verileri ile karsılastır
     compared_data = compare_singers(artist_data, config.SELECTED_SINGER_DATA)
-
+    compared_data["CORRECT_ARTIST"] = config.SELECTED_SINGER_DATA["name"]
     # ✅ Force debug print to check if function runs
     # print(f"🔥 DEBUG: {artist_data['name']} - Raw: {raw_followers}, Formatted: {formatted_followers}")
     config.SEARCH_REQ = False

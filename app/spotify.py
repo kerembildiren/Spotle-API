@@ -92,7 +92,7 @@ def search_artist(artist_name):
             "id": _id,
             "name": get_artist_name(artist),
             "gender": "N/A",
-            "nationality": "N/A",
+            "nationality": "Turkish",
             "popularity": artist["followers"]["total"],  # Score 0-100
             "followers": format_followers_count(int(artist["followers"]["total"])),
             "genres": map_genre(artist.get("genres", [])),
