@@ -178,5 +178,3 @@ async def search_singer(artist_name: str):
     # print(f"🔥 DEBUG: {artist_data['name']} - Raw: {raw_followers}, Formatted: {formatted_followers}")
     config.SEARCH_REQ = False
     return compared_data
-
-print(search_singer("Tarkan"))
