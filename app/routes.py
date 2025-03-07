@@ -150,8 +150,8 @@ def compare_singers(guess, correct):
     return result
 
 
-# @router.get("/search")
-def search_singer(artist_name: str):
+@router.get("/search")
+async def search_singer(artist_name: str):
     """Search for an artist in Spotify and return their data, but only if they exist in the Turkish singers dataset."""
     config.SEARCH_REQ = True
     # 1. artist secildi mi kontrolu
