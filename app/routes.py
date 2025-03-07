@@ -20,7 +20,7 @@ router = APIRouter()
 
 # Load the Turkish singers JSON file
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-JSON_FILE_PATH = os.path.join(BASE_DIR, "../data/turkish_singers.json")
+JSON_FILE_PATH = os.path.join(BASE_DIR, "/etc/secrets/turkish_singers.json")
 
 def get_artist_data_dict():
     with open(JSON_FILE_PATH, "r", encoding="utf-8") as f:

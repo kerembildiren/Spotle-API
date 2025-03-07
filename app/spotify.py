@@ -13,7 +13,7 @@ client_credentials_manager = SpotifyClientCredentials(
 )
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-JSON_FILE_PATH = "data/turkish_singers.json"
+JSON_FILE_PATH = "/etc/secrets/turkish_singers.json"
 turkish_singers = {}
 
 def get_artist_data_dict():
