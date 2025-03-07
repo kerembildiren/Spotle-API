@@ -67,6 +67,8 @@ async def get_turkish_singers():
 
     turkish_singers = get_artist_data_dict()
     for singer in turkish_singers.keys():
+        while config.SEARCH_REQ:
+            time.sleep(1)
         artist_data = get_artist_data(singer)
         if artist_data:
             popularity = artist_data.get("popularity", 0)
@@ -139,7 +141,7 @@ def compare_singers(guess, correct):
 @router.get("/search")
 async def search_singer(artist_name: str):
     """Search for an artist in Spotify and return their data, but only if they exist in the Turkish singers dataset."""
-
+    config.SEARCH_REQ = True
     # 1. artist secildi mi kontrolu
     if len(config.SELECTED_SINGER_DATA) < 1 or not DateOperations.is_new_day():
         # 1. secilmemis ise rastgele sec
@@ -162,6 +164,6 @@ async def search_singer(artist_name: str):
 
     # ✅ Force debug print to check if function runs
     # print(f"🔥 DEBUG: {artist_data['name']} - Raw: {raw_followers}, Formatted: {formatted_followers}")
-
+    config.SEARCH_REQ = False
     return compared_data
 

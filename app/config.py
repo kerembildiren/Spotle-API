@@ -27,5 +27,5 @@ if not SPOTIFY_CLIENT_ID or not SPOTIFY_CLIENT_SECRET:
 LAST_DATE = datetime.now().date()
 SELECTED_SINGER_DATA = {}
 
-
+SEARCH_REQ = False
 
