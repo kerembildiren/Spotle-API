@@ -107,37 +107,46 @@ def select_random_singer():
         pass
 
 
-def compare_data(guess_data, correct_data):
-    if type(guess_data) == str:
-        if guess_data == correct_data:
-            return f"OK_{guess_data}"
-        else:
-            return f"NOK_{guess_data}"
+def compare_string_data(guess_data, correct_data):
+    if guess_data == correct_data:
+        return f"OK_{guess_data}"
     else:
-        try:
-            if guess_data > correct_data:
-                return f"DOWN_({guess_data})"
-            elif guess_data < correct_data:
-                return f"UP_({guess_data})"
-            else:
-                return f"OK_{guess_data}"
-        except:
-            return "NOK_ERROR"
+        return f"NOK_{guess_data}"
 
+def compare_numeric_data(guess_data, correct_data):
+    try:
+        guess_data = float(guess_data)
+        correct_data = float(correct_data)
+        if guess_data > correct_data:
+            return f"DOWN_({guess_data})"
+        elif guess_data < correct_data:
+            return f"UP_({guess_data})"
+        else:
+            return f"OK_{guess_data}"
+    except ValueError:
+        return "NOK_ERROR"
+
+def compare_year_data(guess_data, correct_data):
+    try:
+        guess_year = int(guess_data.split('-')[0])  # Extract year part if format is YYYY-MM-DD
+        correct_year = int(correct_data.split('-')[0])
+        return compare_numeric_data(guess_year, correct_year)
+    except:
+        return "NOK_ERROR"
 
 def compare_singers(guess, correct):
     result = {}
 
-    # ✅ Compare each attribute & mark matches in green
     result["name"] = guess["name"]
     result["image"] = guess["image"]
-    result["debut_year"] = compare_data(guess['debut_year'], correct["debut_year"])
-    result["group_size"] = compare_data(guess['group_size'], correct["group_size"])
-    result["gender"] = compare_data(guess['gender'], correct["gender"])
-    result["genres"] = compare_data(guess['genres'], correct["genres"])
-    result["nationality"] = compare_data(guess['nationality'], correct["nationality"])
-    result["followers"] = spotify.format_followers_count(compare_data(guess['popularity'], correct["popularity"]))
-    result["popularity"] = compare_data(guess['popularity'], correct["popularity"])
+    result["debut_year"] = compare_year_data(guess['debut_year'], correct["debut_year"])
+    result["group_size"] = compare_numeric_data(guess['group_size'], correct["group_size"])
+    result["gender"] = compare_string_data(guess['gender'], correct["gender"])
+    result["genres"] = compare_string_data(guess['genres'], correct["genres"])
+    result["nationality"] = compare_string_data(guess['nationality'], correct["nationality"])
+    result["followers"] = compare_numeric_data(guess['followers'], correct["followers"])
+    result["popularity"] = compare_numeric_data(guess['popularity'], correct["popularity"])
+    result["CORRECT_ARTIST"] = compare_string_data(guess['CORRECT_ARTIST'], correct["CORRECT_ARTIST"])
 
     return result
 
