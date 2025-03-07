@@ -13,7 +13,8 @@ client_credentials_manager = SpotifyClientCredentials(
 )
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-JSON_FILE_PATH = "../data/turkish_singers.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+JSON_FILE_PATH = os.path.join(BASE_DIR, "../data/turkish_singers.json")
 turkish_singers = {}
 
 def get_artist_data_dict():
@@ -28,6 +29,7 @@ def save_artist_data(artist_data):
     with open(JSON_FILE_PATH, "w", encoding="utf-8") as f:
         json.dump(turkish_singers, f, ensure_ascii=False, indent=4)
     print(f"ARTIST DATA SAVED: {_name}")
+    print(artist_data)
 
 GENRE_MAPPING = {
     "turkish pop": "Pop",
@@ -85,8 +87,7 @@ def search_artist(artist_name):
     if results["artists"]["items"]:
         artist = results["artists"]["items"][0]
         _id = get_artist_id(artist)
-        albums = sp.artist_albums(_id, None, ["album","single"], "TR", 50, 0)
-
+        albums = sp.artist_albums(_id, None, ["album","single","appears_on", "compilation"], "TR", 50, 0)
         artist_data = {
             "id": _id,
             "name": get_artist_name(artist),
@@ -124,7 +125,7 @@ def get_first_album(albums_data: dict):
     if len(album_list):
         return album_list[-1]["name"]
     else:
-        return ""
+        return None
 
 
 def get_first_album_year(albums_data: dict):
@@ -132,4 +133,4 @@ def get_first_album_year(albums_data: dict):
     if len(album_list):
         return album_list[-1]["release_date"]
     else:
-        return ""
+        return None

@@ -22,9 +22,25 @@ router = APIRouter()
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 JSON_FILE_PATH = os.path.join(BASE_DIR, "../data/turkish_singers.json")
 
+
 def get_artist_data_dict():
     with open(JSON_FILE_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def get_artist_data(singer):
+    try:
+        updated_time = get_artist_data_dict()[singer]["updated_date"]
+        # check past 1 day
+        if DateOperations.has_one_day_passed(updated_time):
+            artist_data = search_artist(singer)
+        else:
+            artist_data = get_artist_data_dict()[singer]
+    except KeyError:
+        artist_data = search_artist(singer)
+
+    return artist_data
+
 
 @router.get("/genres")
 async def get_all_genres():
@@ -32,12 +48,16 @@ async def get_all_genres():
     genre_set = set()
 
     for singer in get_artist_data_dict():
-        artist_data = search_artist(singer)
+
+        artist_data = get_artist_data(singer)
+
         if artist_data and "genres" in artist_data:
             for genre in artist_data["genres"]:
                 genre_set.add(genre)
+        time.sleep(1)
 
     return {"unique_genres": sorted(genre_set)}
+
 
 @router.get("/turkish_singers")
 async def get_turkish_singers():
@@ -46,7 +66,8 @@ async def get_turkish_singers():
     singers_data = []
 
     turkish_singers = get_artist_data_dict()
-    for artist_data in turkish_singers.values():
+    for singer in turkish_singers.keys():
+        artist_data = get_artist_data(singer)
         if artist_data:
             popularity = artist_data.get("popularity", 0)
 
@@ -65,21 +86,24 @@ async def get_turkish_singers():
                     "genres": artist_data.get("genres", "N/A"),
                     "nationality": "Turkish"
                 })
-        print(artist_data)
     return singers_data  # ✅ Remove unnecessary logging
+
 
 def select_random_singer():
     turkish_singers = get_artist_data_dict()
     # random select dict key
     random_artist_name = random.choice(list(turkish_singers.keys()))
-    config.SELECTED_SINGER_DATA = search_artist(random_artist_name)
+    artist_data = search_artist(random_artist_name)
+    if artist_data["first_album"] is None:
+        select_random_singer()
+    else:
+        config.SELECTED_SINGER_DATA = artist_data
     try:
         while not turkish_singers[random_artist_name]["updated"]:
             time.sleep(0.1)
     except:
         pass
 
-    return turkish_singers[random_artist_name]
 
 def compare_singers(guess, correct):
     result = {}
@@ -113,7 +137,7 @@ def compare_singers(guess, correct):
 
 
 @router.get("/search")
-def search_singer(artist_name: str):
+async def search_singer(artist_name: str):
     """Search for an artist in Spotify and return their data, but only if they exist in the Turkish singers dataset."""
 
     # 1. artist secildi mi kontrolu
@@ -128,7 +152,7 @@ def search_singer(artist_name: str):
     # if artist_name_lower not in valid_singers:
     #     raise HTTPException(status_code=404, detail="Singer not found in the Turkish singers list")
 
-    artist_data = search_artist(artist_name)
+    artist_data = get_artist_data(artist_name)
 
     if not artist_data:
         raise HTTPException(status_code=404, detail="Singer not found in Spotify")
