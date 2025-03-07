@@ -107,33 +107,36 @@ def select_random_singer():
         pass
 
 
+def compare_data(guess_data, correct_data):
+    if type(guess_data) == int or type(guess_data) == float:
+        if guess_data > correct_data:
+            return f"DOWN_({correct_data})"
+        elif guess_data < correct_data:
+            return f"UP_({correct_data})"
+        else:
+            return f"OK_{correct_data}"
+    elif type(guess_data) == str:
+        if guess_data == correct_data:
+            return f"OK_{correct_data}"
+        else:
+            return f"NOK_{correct_data}"
+    else:
+        return "NOK_ERROR"
+
+
 def compare_singers(guess, correct):
     result = {}
 
     # ✅ Compare each attribute & mark matches in green
     result["name"] = guess["name"]
     result["image"] = guess["image"]
-    result["debut_year"] = f"OK_{guess['debut_year']}" if guess["debut_year"] == correct["debut_year"] else str(
-        guess["debut_year"])
-    result["group_size"] = f"OK_{guess['group_size']}" if guess["group_size"] == correct["group_size"] else str(
-        guess["group_size"])
-    result["gender"] = f"OK_{guess['gender']}" if guess["gender"] == correct["gender"] else guess["gender"]
-    result["genres"] = f"OK_{guess['genres']}" if guess["genres"] == correct["genres"] else guess["genres"]
-    result["nationality"] = f"OK_{guess['nationality']}" if guess["nationality"] == correct["nationality"] else guess[
-        "nationality"]
-    result["followers"] = f"OK_{guess['followers']}" if guess["followers"] == correct["followers"] else guess[
-        "followers"]
-
-    # ✅ Show "⬆ Higher" or "⬇ Lower" for popularity
-    guess_followers = guess.get("popularity", 0)
-    correct_followers = correct.get("popularity", 0)
-
-    if guess_followers > correct_followers:
-        result["popularity"] = f"DOWN_({guess['followers']})"
-    elif guess_followers < correct_followers:
-        result["popularity"] = f"UP_({guess['followers']})"
-    else:
-        result["popularity"] = f"OK_{guess_followers}"
+    result["debut_year"] = compare_data(guess['debut_year'], correct["debut_year"])
+    result["group_size"] = compare_data(guess['group_size'], correct["group_size"])
+    result["gender"] = compare_data(guess['gender'], correct["gender"])
+    result["genres"] = compare_data(guess['genres'], correct["genres"])
+    result["nationality"] = compare_data(guess['nationality'], correct["nationality"])
+    result["followers"] = compare_data(guess['followers'], correct["followers"])
+    result["popularity"] = compare_data(guess['followers'], correct["followers"])
 
     return result
 
@@ -166,4 +169,3 @@ async def search_singer(artist_name: str):
     # print(f"🔥 DEBUG: {artist_data['name']} - Raw: {raw_followers}, Formatted: {formatted_followers}")
     config.SEARCH_REQ = False
     return compared_data
-
